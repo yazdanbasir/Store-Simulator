@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=WaitingEvent
+comment0.text=\n\ Creates\ an\ instance\ of\ Event\ where\ a\ customer\ is\ to\ join\ the\ queue\ and\ wait\ their\ turn\n\n\ @author\ Yazdan\ Basir\n
+comment1.params=a
+comment1.target=WaitingEvent(int)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\n\ Creates\ each\ individual\ Customer\ object\n\n\ @author\ Yazdan\ Basir\n
+comment1.params=a\ t\ q
+comment1.target=Customer(int,\ int,\ int)
+comment1.text=\n\ Constructor\ for\ the\ Customer\ class\n\ \n\ @param\ a\ int\n\ @param\ t\ int\n\ @param\ q\ int\n
+comment2.params=b
+comment2.target=int\ compareTo(java.lang.Object)
+comment2.text=\n\ Helps\ sort\ the\ Customers\ based\ on\ when\ they\ came\ into\ the\ store\n\ \n\ @param\ b\ Object\n
+numComments=3

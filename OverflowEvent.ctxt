@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=OverflowEvent
+comment0.text=\n\ Creates\ an\ instance\ of\ an\ Event\ where\ a\ customer\ has\ been\ turned\ away\n\n\ @author\ Yazdan\ Basir\n
+comment1.params=a
+comment1.target=OverflowEvent(int)
+numComments=2

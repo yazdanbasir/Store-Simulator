@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Cashiers
+comment0.text=\n\ Creates\ an\ array\ to\ keep\ tracker\ of\ Cashier\ objects\n\ Provides\ functionality\ to\ generate\ random\ serving\ time\ and\ profit\ for\ each\ customer\n\n\ @author\ Yazdan\ Basir\n
+comment1.params=s\ lowS\ highS\ lowP\ highP
+comment1.target=Cashiers(int,\ int,\ int,\ float,\ float)
+comment1.text=\n\ Constructor\ for\ the\ Cashiers\ class\n\ \n\ @param\ s\ int\n\ @param\ lowS\ int\n\ @param\ highS\ int\n\ @param\ lowP\ float\n\ @param\ highP\ float\n
+comment2.params=
+comment2.target=float\ generateRandomProfit()
+comment2.text=\n\ Generates\ a\ random\ profit\ between\ the\ bounds\n
+comment3.params=
+comment3.target=int\ generateRandomServingTime()
+comment3.text=\n\ Generates\ a\ random\ serving\ time\ between\ the\ bounds\n
+numComments=4

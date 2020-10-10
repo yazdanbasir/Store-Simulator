@@ -1,0 +1,3686 @@
+A customer has entered the shop at time 0
+A customer has entered the shop at time 5
+A customer has entered the shop at time 26
+Customer who entered at 26 will join queue till 73
+A customer has entered the shop at time 43
+Customer who entered at 43 will join queue till 76
+A customer has entered the shop at time 46
+Customer who entered at 46 will join queue till 202
+A customer has entered the shop at time 55
+Customer who entered at 55 will join queue till 297
+A customer has entered the shop at time 73
+A customer has been served at time 73
+A customer has entered the shop at time 73
+A customer has entered the shop at time 73
+A customer has been served at time 73
+A customer has entered the shop at time 76
+A customer has been served at time 76
+A customer has entered the shop at time 76
+A customer has entered the shop at time 76
+A customer has been served at time 76
+A customer has entered the shop at time 111
+Customer who entered at 111 will join queue till 384
+A customer has entered the shop at time 154
+Customer who entered at 154 will join queue till 436
+A customer has entered the shop at time 202
+A customer has entered the shop at time 202
+A customer has been served at time 202
+A customer has entered the shop at time 210
+Customer who entered at 210 will join queue till 480
+A customer has entered the shop at time 214
+Customer who entered at 214 will join queue till 604
+A customer has entered the shop at time 258
+Customer who entered at 258 will join queue till 648
+A customer has entered the shop at time 297
+A customer has entered the shop at time 297
+A customer has been served at time 297
+A customer has entered the shop at time 336
+Customer who entered at 336 will join queue till 690
+A customer has entered the shop at time 384
+A customer has entered the shop at time 384
+A customer has been served at time 384
+A customer has entered the shop at time 391
+Customer who entered at 391 will join queue till 843
+A customer has entered the shop at time 400
+Customer who entered at 400 will join queue till 853
+A customer has entered the shop at time 436
+A customer has entered the shop at time 436
+A customer has been served at time 436
+A customer has entered the shop at time 480
+A customer has entered the shop at time 480
+A customer has been served at time 480
+A customer has entered the shop at time 494
+Customer who entered at 494 will join queue till 988
+A customer has entered the shop at time 537
+Customer who entered at 537 will join queue till 1001
+A customer has entered the shop at time 556
+Customer who entered at 556 will join queue till 1169
+A customer has entered the shop at time 575
+Customer who entered at 575 will join queue till 1181
+A customer has entered the shop at time 604
+A customer has entered the shop at time 604
+A customer has been served at time 604
+A customer has entered the shop at time 648
+A customer has entered the shop at time 648
+A customer has been served at time 648
+A customer has entered the shop at time 690
+A customer has entered the shop at time 690
+A customer has been served at time 690
+A customer has entered the shop at time 698
+Customer who entered at 698 will join queue till 1259
+A customer has entered the shop at time 761
+Customer who entered at 761 will join queue till 1342
+A customer has entered the shop at time 779
+Customer who entered at 779 will join queue till 1398
+A customer has entered the shop at time 833
+Customer who entered at 833 will join queue till 1464
+A customer has entered the shop at time 833
+Customer who entered at 833 will join queue till 1505
+A customer has entered the shop at time 843
+A customer has entered the shop at time 843
+A customer has been served at time 843
+A customer has entered the shop at time 853
+A customer has entered the shop at time 853
+A customer has been served at time 853
+A customer has entered the shop at time 884
+Customer who entered at 884 will join queue till 1608
+A customer has entered the shop at time 891
+Customer who entered at 891 will join queue till 1626
+A customer has entered the shop at time 904
+Customer who entered at 904 will join queue till 1792
+A customer has entered the shop at time 984
+Customer who entered at 984 will join queue till 1855
+A customer has entered the shop at time 988
+A customer has entered the shop at time 988
+A customer has been served at time 988
+A customer has entered the shop at time 1001
+A customer has entered the shop at time 1001
+A customer has been served at time 1001
+A customer has entered the shop at time 1001
+Customer who entered at 1001 will join queue till 1979
+A customer has entered the shop at time 1019
+Customer who entered at 1019 will join queue till 2019
+A customer has entered the shop at time 1028
+Customer who entered at 1028 will join queue till 2077
+A customer has entered the shop at time 1046
+Customer who entered at 1046 will join queue till 2172
+A customer has entered the shop at time 1102
+Customer who entered at 1102 will join queue till 2287
+A customer has entered the shop at time 1169
+A customer has entered the shop at time 1169
+A customer has been served at time 1169
+A customer has entered the shop at time 1181
+A customer has entered the shop at time 1181
+A customer has been served at time 1181
+A customer has entered the shop at time 1197
+Customer who entered at 1197 will join queue till 2303
+A customer has entered the shop at time 1219
+Customer who entered at 1219 will join queue till 2350
+A customer has entered the shop at time 1259
+A customer has entered the shop at time 1259
+A customer has been served at time 1259
+A customer has entered the shop at time 1262
+Customer who entered at 1262 will join queue till 2467
+A customer has entered the shop at time 1263
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1297
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1309
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1317
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1339
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1342
+A customer has entered the shop at time 1342
+A customer has been served at time 1342
+A customer has entered the shop at time 1398
+A customer has entered the shop at time 1398
+A customer has been served at time 1398
+A customer has entered the shop at time 1403
+Customer who entered at 1403 will join queue till 2476
+A customer has entered the shop at time 1415
+Customer who entered at 1415 will join queue till 2556
+A customer has entered the shop at time 1435
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1463
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1464
+A customer has entered the shop at time 1464
+A customer has been served at time 1464
+A customer has entered the shop at time 1505
+A customer has entered the shop at time 1505
+A customer has been served at time 1505
+A customer has entered the shop at time 1558
+Customer who entered at 1558 will join queue till 2655
+A customer has entered the shop at time 1589
+Customer who entered at 1589 will join queue till 2695
+A customer has entered the shop at time 1603
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1608
+A customer has entered the shop at time 1608
+A customer has been served at time 1608
+A customer has entered the shop at time 1626
+A customer has entered the shop at time 1626
+A customer has been served at time 1626
+A customer has entered the shop at time 1710
+Customer who entered at 1710 will join queue till 2745
+A customer has entered the shop at time 1792
+A customer has entered the shop at time 1792
+A customer has been served at time 1792
+A customer has entered the shop at time 1822
+Customer who entered at 1822 will join queue till 2863
+A customer has entered the shop at time 1855
+A customer has entered the shop at time 1855
+A customer has been served at time 1855
+A customer has entered the shop at time 1872
+Customer who entered at 1872 will join queue till 2921
+A customer has entered the shop at time 1938
+Customer who entered at 1938 will join queue till 2930
+A customer has entered the shop at time 1962
+Overflow. A customer has been turned away
+A customer has entered the shop at time 1979
+A customer has entered the shop at time 1979
+A customer has been served at time 1979
+A customer has entered the shop at time 1989
+Customer who entered at 1989 will join queue till 3119
+A customer has entered the shop at time 2019
+A customer has entered the shop at time 2019
+A customer has been served at time 2019
+A customer has entered the shop at time 2022
+Customer who entered at 2022 will join queue till 3141
+A customer has entered the shop at time 2065
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2077
+A customer has entered the shop at time 2077
+A customer has been served at time 2077
+A customer has entered the shop at time 2159
+Customer who entered at 2159 will join queue till 3270
+A customer has entered the shop at time 2172
+A customer has entered the shop at time 2172
+A customer has been served at time 2172
+A customer has entered the shop at time 2228
+Customer who entered at 2228 will join queue till 3289
+A customer has entered the shop at time 2283
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2287
+A customer has entered the shop at time 2287
+A customer has been served at time 2287
+A customer has entered the shop at time 2293
+Customer who entered at 2293 will join queue till 3366
+A customer has entered the shop at time 2303
+A customer has entered the shop at time 2303
+A customer has been served at time 2303
+A customer has entered the shop at time 2309
+Customer who entered at 2309 will join queue till 3465
+A customer has entered the shop at time 2320
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2345
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2350
+A customer has entered the shop at time 2350
+A customer has been served at time 2350
+A customer has entered the shop at time 2405
+Customer who entered at 2405 will join queue till 3549
+A customer has entered the shop at time 2429
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2441
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2456
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2467
+A customer has entered the shop at time 2467
+A customer has been served at time 2467
+A customer has entered the shop at time 2467
+Customer who entered at 2467 will join queue till 3596
+A customer has entered the shop at time 2476
+A customer has entered the shop at time 2476
+A customer has been served at time 2476
+A customer has entered the shop at time 2499
+Customer who entered at 2499 will join queue till 3654
+A customer has entered the shop at time 2536
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2551
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2556
+A customer has entered the shop at time 2556
+A customer has been served at time 2556
+A customer has entered the shop at time 2558
+Customer who entered at 2558 will join queue till 3750
+A customer has entered the shop at time 2558
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2586
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2617
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2619
+Overflow. A customer has been turned away
+A customer has entered the shop at time 2655
+A customer has entered the shop at time 2655
+A customer has been served at time 2655
+A customer has entered the shop at time 2695
+A customer has entered the shop at time 2695
+A customer has been served at time 2695
+A customer has entered the shop at time 2745
+A customer has entered the shop at time 2745
+A customer has been served at time 2745
+A customer has entered the shop at time 2844
+Customer who entered at 2844 will join queue till 3817
+A customer has entered the shop at time 2847
+Customer who entered at 2847 will join queue till 3822
+A customer has entered the shop at time 2863
+A customer has entered the shop at time 2863
+A customer has been served at time 2863
+A customer has entered the shop at time 2869
+Customer who entered at 2869 will join queue till 4036
+A customer has entered the shop at time 2897
+Customer who entered at 2897 will join queue till 4036
+A customer has entered the shop at time 2921
+A customer has entered the shop at time 2921
+A customer has been served at time 2921
+A customer has entered the shop at time 2930
+A customer has entered the shop at time 2930
+A customer has been served at time 2930
+A customer has entered the shop at time 2961
+Customer who entered at 2961 will join queue till 4101
+A customer has entered the shop at time 3019
+Customer who entered at 3019 will join queue till 4175
+A customer has entered the shop at time 3032
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3055
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3067
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3082
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3119
+A customer has entered the shop at time 3119
+A customer has been served at time 3119
+A customer has entered the shop at time 3141
+A customer has entered the shop at time 3141
+A customer has been served at time 3141
+A customer has entered the shop at time 3145
+Customer who entered at 3145 will join queue till 4255
+A customer has entered the shop at time 3225
+Customer who entered at 3225 will join queue till 4330
+A customer has entered the shop at time 3229
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3258
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3262
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3270
+A customer has entered the shop at time 3270
+A customer has been served at time 3270
+A customer has entered the shop at time 3289
+A customer has entered the shop at time 3289
+A customer has been served at time 3289
+A customer has entered the shop at time 3289
+Customer who entered at 3289 will join queue till 4370
+A customer has entered the shop at time 3314
+Customer who entered at 3314 will join queue till 4562
+A customer has entered the shop at time 3352
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3366
+A customer has entered the shop at time 3366
+A customer has been served at time 3366
+A customer has entered the shop at time 3366
+Customer who entered at 3366 will join queue till 4567
+A customer has entered the shop at time 3381
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3465
+A customer has entered the shop at time 3465
+A customer has been served at time 3465
+A customer has entered the shop at time 3504
+Customer who entered at 3504 will join queue till 4709
+A customer has entered the shop at time 3507
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3549
+A customer has entered the shop at time 3549
+A customer has been served at time 3549
+A customer has entered the shop at time 3553
+Customer who entered at 3553 will join queue till 4764
+A customer has entered the shop at time 3576
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3596
+A customer has entered the shop at time 3596
+A customer has been served at time 3596
+A customer has entered the shop at time 3599
+Customer who entered at 3599 will join queue till 4862
+A customer has entered the shop at time 3654
+A customer has entered the shop at time 3654
+A customer has been served at time 3654
+A customer has entered the shop at time 3667
+Customer who entered at 3667 will join queue till 4935
+A customer has entered the shop at time 3710
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3728
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3750
+A customer has entered the shop at time 3750
+A customer has been served at time 3750
+A customer has entered the shop at time 3754
+Customer who entered at 3754 will join queue till 5063
+A customer has entered the shop at time 3758
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3795
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3817
+A customer has entered the shop at time 3817
+A customer has been served at time 3817
+A customer has entered the shop at time 3822
+A customer has entered the shop at time 3822
+A customer has been served at time 3822
+A customer has entered the shop at time 3878
+Customer who entered at 3878 will join queue till 5083
+A customer has entered the shop at time 3913
+Customer who entered at 3913 will join queue till 5241
+A customer has entered the shop at time 3927
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3949
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3969
+Overflow. A customer has been turned away
+A customer has entered the shop at time 3978
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4036
+A customer has entered the shop at time 4036
+A customer has been served at time 4036
+A customer has entered the shop at time 4036
+A customer has entered the shop at time 4036
+A customer has been served at time 4036
+A customer has entered the shop at time 4053
+Customer who entered at 4053 will join queue till 5275
+A customer has entered the shop at time 4076
+Customer who entered at 4076 will join queue till 5333
+A customer has entered the shop at time 4101
+A customer has entered the shop at time 4101
+A customer has been served at time 4101
+A customer has entered the shop at time 4107
+Customer who entered at 4107 will join queue till 5422
+A customer has entered the shop at time 4118
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4136
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4175
+A customer has entered the shop at time 4175
+A customer has been served at time 4175
+A customer has entered the shop at time 4187
+Customer who entered at 4187 will join queue till 5443
+A customer has entered the shop at time 4187
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4198
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4199
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4213
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4218
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4232
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4246
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4255
+A customer has entered the shop at time 4255
+A customer has been served at time 4255
+A customer has entered the shop at time 4261
+Customer who entered at 4261 will join queue till 5515
+A customer has entered the shop at time 4286
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4306
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4330
+A customer has entered the shop at time 4330
+A customer has been served at time 4330
+A customer has entered the shop at time 4345
+Customer who entered at 4345 will join queue till 5648
+A customer has entered the shop at time 4370
+A customer has entered the shop at time 4370
+A customer has been served at time 4370
+A customer has entered the shop at time 4386
+Customer who entered at 4386 will join queue till 5725
+A customer has entered the shop at time 4485
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4488
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4493
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4497
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4556
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4562
+A customer has entered the shop at time 4562
+A customer has been served at time 4562
+A customer has entered the shop at time 4567
+A customer has entered the shop at time 4567
+A customer has been served at time 4567
+A customer has entered the shop at time 4602
+Customer who entered at 4602 will join queue till 5754
+A customer has entered the shop at time 4616
+Customer who entered at 4616 will join queue till 5895
+A customer has entered the shop at time 4685
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4709
+A customer has entered the shop at time 4709
+A customer has been served at time 4709
+A customer has entered the shop at time 4727
+Customer who entered at 4727 will join queue till 5953
+A customer has entered the shop at time 4740
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4764
+A customer has entered the shop at time 4764
+A customer has been served at time 4764
+A customer has entered the shop at time 4772
+Customer who entered at 4772 will join queue till 6044
+A customer has entered the shop at time 4796
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4835
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4862
+A customer has entered the shop at time 4862
+A customer has been served at time 4862
+A customer has entered the shop at time 4925
+Customer who entered at 4925 will join queue till 6074
+A customer has entered the shop at time 4935
+A customer has entered the shop at time 4935
+A customer has been served at time 4935
+A customer has entered the shop at time 4989
+Customer who entered at 4989 will join queue till 6134
+A customer has entered the shop at time 4990
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4990
+Overflow. A customer has been turned away
+A customer has entered the shop at time 4995
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5063
+A customer has entered the shop at time 5063
+A customer has been served at time 5063
+A customer has entered the shop at time 5083
+A customer has entered the shop at time 5083
+A customer has been served at time 5083
+A customer has entered the shop at time 5086
+Customer who entered at 5086 will join queue till 6160
+A customer has entered the shop at time 5107
+Customer who entered at 5107 will join queue till 6257
+A customer has entered the shop at time 5111
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5157
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5200
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5216
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5241
+A customer has entered the shop at time 5241
+A customer has been served at time 5241
+A customer has entered the shop at time 5243
+Customer who entered at 5243 will join queue till 6292
+A customer has entered the shop at time 5256
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5273
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5275
+A customer has entered the shop at time 5275
+A customer has been served at time 5275
+A customer has entered the shop at time 5301
+Customer who entered at 5301 will join queue till 6452
+A customer has entered the shop at time 5333
+A customer has entered the shop at time 5333
+A customer has been served at time 5333
+A customer has entered the shop at time 5341
+Customer who entered at 5341 will join queue till 6500
+A customer has entered the shop at time 5371
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5385
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5395
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5398
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5417
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5422
+A customer has entered the shop at time 5422
+A customer has been served at time 5422
+A customer has entered the shop at time 5430
+Customer who entered at 5430 will join queue till 6544
+A customer has entered the shop at time 5443
+A customer has entered the shop at time 5443
+A customer has been served at time 5443
+A customer has entered the shop at time 5456
+Customer who entered at 5456 will join queue till 6601
+A customer has entered the shop at time 5514
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5515
+A customer has entered the shop at time 5515
+A customer has been served at time 5515
+A customer has entered the shop at time 5516
+Customer who entered at 5516 will join queue till 6695
+A customer has entered the shop at time 5559
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5590
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5618
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5630
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5632
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5648
+A customer has entered the shop at time 5648
+A customer has been served at time 5648
+A customer has entered the shop at time 5650
+Customer who entered at 5650 will join queue till 6759
+A customer has entered the shop at time 5680
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5725
+A customer has entered the shop at time 5725
+A customer has been served at time 5725
+A customer has entered the shop at time 5732
+Customer who entered at 5732 will join queue till 6768
+A customer has entered the shop at time 5733
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5754
+A customer has entered the shop at time 5754
+A customer has been served at time 5754
+A customer has entered the shop at time 5758
+Customer who entered at 5758 will join queue till 6904
+A customer has entered the shop at time 5780
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5895
+A customer has entered the shop at time 5895
+A customer has been served at time 5895
+A customer has entered the shop at time 5912
+Customer who entered at 5912 will join queue till 6961
+A customer has entered the shop at time 5929
+Overflow. A customer has been turned away
+A customer has entered the shop at time 5953
+A customer has entered the shop at time 5953
+A customer has been served at time 5953
+A customer has entered the shop at time 5979
+Customer who entered at 5979 will join queue till 7129
+A customer has entered the shop at time 6044
+A customer has entered the shop at time 6044
+A customer has been served at time 6044
+A customer has entered the shop at time 6061
+Customer who entered at 6061 will join queue till 7179
+A customer has entered the shop at time 6074
+A customer has entered the shop at time 6074
+A customer has been served at time 6074
+A customer has entered the shop at time 6122
+Customer who entered at 6122 will join queue till 7236
+A customer has entered the shop at time 6134
+A customer has entered the shop at time 6134
+A customer has been served at time 6134
+A customer has entered the shop at time 6142
+Customer who entered at 6142 will join queue till 7321
+A customer has entered the shop at time 6150
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6152
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6160
+A customer has entered the shop at time 6160
+A customer has been served at time 6160
+A customer has entered the shop at time 6193
+Customer who entered at 6193 will join queue till 7354
+A customer has entered the shop at time 6199
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6206
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6232
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6253
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6257
+A customer has entered the shop at time 6257
+A customer has been served at time 6257
+A customer has entered the shop at time 6287
+Customer who entered at 6287 will join queue till 7418
+A customer has entered the shop at time 6292
+A customer has entered the shop at time 6292
+A customer has been served at time 6292
+A customer has entered the shop at time 6297
+Customer who entered at 6297 will join queue till 7527
+A customer has entered the shop at time 6346
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6381
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6390
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6394
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6403
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6425
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6429
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6432
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6442
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6445
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6452
+A customer has entered the shop at time 6452
+A customer has been served at time 6452
+A customer has entered the shop at time 6500
+A customer has entered the shop at time 6500
+A customer has been served at time 6500
+A customer has entered the shop at time 6510
+Customer who entered at 6510 will join queue till 7650
+A customer has entered the shop at time 6544
+A customer has entered the shop at time 6544
+A customer has been served at time 6544
+A customer has entered the shop at time 6574
+Customer who entered at 6574 will join queue till 7663
+A customer has entered the shop at time 6601
+A customer has entered the shop at time 6601
+A customer has been served at time 6601
+A customer has entered the shop at time 6625
+Customer who entered at 6625 will join queue till 7838
+A customer has entered the shop at time 6636
+Customer who entered at 6636 will join queue till 7863
+A customer has entered the shop at time 6639
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6652
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6685
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6695
+A customer has entered the shop at time 6695
+A customer has been served at time 6695
+A customer has entered the shop at time 6717
+Customer who entered at 6717 will join queue till 7950
+A customer has entered the shop at time 6759
+A customer has entered the shop at time 6759
+A customer has been served at time 6759
+A customer has entered the shop at time 6768
+A customer has entered the shop at time 6768
+A customer has been served at time 6768
+A customer has entered the shop at time 6780
+Customer who entered at 6780 will join queue till 7998
+A customer has entered the shop at time 6832
+Customer who entered at 6832 will join queue till 8066
+A customer has entered the shop at time 6849
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6889
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6904
+A customer has entered the shop at time 6904
+A customer has been served at time 6904
+A customer has entered the shop at time 6930
+Customer who entered at 6930 will join queue till 8088
+A customer has entered the shop at time 6956
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6961
+A customer has entered the shop at time 6961
+A customer has been served at time 6961
+A customer has entered the shop at time 6977
+Customer who entered at 6977 will join queue till 8265
+A customer has entered the shop at time 6977
+Overflow. A customer has been turned away
+A customer has entered the shop at time 6987
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7002
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7006
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7013
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7076
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7129
+A customer has entered the shop at time 7129
+A customer has been served at time 7129
+A customer has entered the shop at time 7167
+Customer who entered at 7167 will join queue till 8272
+A customer has entered the shop at time 7179
+A customer has entered the shop at time 7179
+A customer has been served at time 7179
+A customer has entered the shop at time 7226
+Customer who entered at 7226 will join queue till 8355
+A customer has entered the shop at time 7236
+A customer has entered the shop at time 7236
+A customer has been served at time 7236
+A customer has entered the shop at time 7273
+Customer who entered at 7273 will join queue till 8433
+A customer has entered the shop at time 7302
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7321
+A customer has entered the shop at time 7321
+A customer has been served at time 7321
+A customer has entered the shop at time 7354
+A customer has entered the shop at time 7354
+A customer has been served at time 7354
+A customer has entered the shop at time 7376
+Customer who entered at 7376 will join queue till 8449
+A customer has entered the shop at time 7385
+Customer who entered at 7385 will join queue till 8585
+A customer has entered the shop at time 7418
+A customer has entered the shop at time 7418
+A customer has been served at time 7418
+A customer has entered the shop at time 7527
+A customer has entered the shop at time 7527
+A customer has been served at time 7527
+A customer has entered the shop at time 7562
+Customer who entered at 7562 will join queue till 8612
+A customer has entered the shop at time 7617
+Customer who entered at 7617 will join queue till 8744
+A customer has entered the shop at time 7650
+A customer has entered the shop at time 7650
+A customer has been served at time 7650
+A customer has entered the shop at time 7663
+A customer has entered the shop at time 7663
+A customer has been served at time 7663
+A customer has entered the shop at time 7674
+Customer who entered at 7674 will join queue till 8751
+A customer has entered the shop at time 7714
+Customer who entered at 7714 will join queue till 8867
+A customer has entered the shop at time 7717
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7815
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7832
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7838
+A customer has entered the shop at time 7838
+A customer has been served at time 7838
+A customer has entered the shop at time 7844
+Customer who entered at 7844 will join queue till 8969
+A customer has entered the shop at time 7863
+A customer has entered the shop at time 7863
+A customer has been served at time 7863
+A customer has entered the shop at time 7906
+Customer who entered at 7906 will join queue till 9082
+A customer has entered the shop at time 7946
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7950
+A customer has entered the shop at time 7950
+A customer has been served at time 7950
+A customer has entered the shop at time 7951
+Customer who entered at 7951 will join queue till 9105
+A customer has entered the shop at time 7953
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7958
+Overflow. A customer has been turned away
+A customer has entered the shop at time 7998
+A customer has entered the shop at time 7998
+A customer has been served at time 7998
+A customer has entered the shop at time 8030
+Customer who entered at 8030 will join queue till 9232
+A customer has entered the shop at time 8057
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8062
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8066
+A customer has entered the shop at time 8066
+A customer has been served at time 8066
+A customer has entered the shop at time 8088
+A customer has entered the shop at time 8088
+A customer has been served at time 8088
+A customer has entered the shop at time 8100
+Customer who entered at 8100 will join queue till 9317
+A customer has entered the shop at time 8111
+Customer who entered at 8111 will join queue till 9424
+A customer has entered the shop at time 8213
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8244
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8265
+A customer has entered the shop at time 8265
+A customer has been served at time 8265
+A customer has entered the shop at time 8272
+A customer has entered the shop at time 8272
+A customer has been served at time 8272
+A customer has entered the shop at time 8337
+Customer who entered at 8337 will join queue till 9464
+A customer has entered the shop at time 8337
+Customer who entered at 8337 will join queue till 9528
+A customer has entered the shop at time 8355
+A customer has entered the shop at time 8355
+A customer has been served at time 8355
+A customer has entered the shop at time 8374
+Customer who entered at 8374 will join queue till 9548
+A customer has entered the shop at time 8376
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8404
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8411
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8415
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8433
+A customer has entered the shop at time 8433
+A customer has been served at time 8433
+A customer has entered the shop at time 8436
+Customer who entered at 8436 will join queue till 9627
+A customer has entered the shop at time 8449
+A customer has entered the shop at time 8449
+A customer has been served at time 8449
+A customer has entered the shop at time 8458
+Customer who entered at 8458 will join queue till 9761
+A customer has entered the shop at time 8482
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8493
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8538
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8552
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8558
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8563
+Overflow. A customer has been turned away
+A customer has entered the shop at time 8585
+A customer has entered the shop at time 8585
+A customer has been served at time 8585
+A customer has entered the shop at time 8612
+A customer has entered the shop at time 8612
+A customer has been served at time 8612
+A customer has entered the shop at time 8661
+Customer who entered at 8661 will join queue till 9802
+A customer has entered the shop at time 8744
+A customer has entered the shop at time 8744
+A customer has been served at time 8744
+A customer has entered the shop at time 8751
+A customer has entered the shop at time 8751
+A customer has been served at time 8751
+A customer has entered the shop at time 8821
+Customer who entered at 8821 will join queue till 9869
+A customer has entered the shop at time 8867
+A customer has entered the shop at time 8867
+A customer has been served at time 8867
+A customer has entered the shop at time 8909
+Customer who entered at 8909 will join queue till 10023
+A customer has entered the shop at time 8969
+A customer has entered the shop at time 8969
+A customer has been served at time 8969
+A customer has entered the shop at time 8997
+Customer who entered at 8997 will join queue till 10093
+A customer has entered the shop at time 9082
+A customer has entered the shop at time 9082
+A customer has been served at time 9082
+A customer has entered the shop at time 9105
+A customer has entered the shop at time 9105
+A customer has been served at time 9105
+A customer has entered the shop at time 9130
+Customer who entered at 9130 will join queue till 10094
+A customer has entered the shop at time 9225
+Customer who entered at 9225 will join queue till 10230
+A customer has entered the shop at time 9232
+A customer has entered the shop at time 9232
+A customer has been served at time 9232
+A customer has entered the shop at time 9261
+Customer who entered at 9261 will join queue till 10232
+A customer has entered the shop at time 9265
+Customer who entered at 9265 will join queue till 10350
+A customer has entered the shop at time 9282
+Customer who entered at 9282 will join queue till 10460
+A customer has entered the shop at time 9286
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9296
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9317
+A customer has entered the shop at time 9317
+A customer has been served at time 9317
+A customer has entered the shop at time 9402
+Customer who entered at 9402 will join queue till 10478
+A customer has entered the shop at time 9422
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9424
+A customer has entered the shop at time 9424
+A customer has been served at time 9424
+A customer has entered the shop at time 9455
+Customer who entered at 9455 will join queue till 10596
+A customer has entered the shop at time 9464
+A customer has entered the shop at time 9464
+A customer has been served at time 9464
+A customer has entered the shop at time 9498
+Customer who entered at 9498 will join queue till 10637
+A customer has entered the shop at time 9528
+A customer has entered the shop at time 9528
+A customer has been served at time 9528
+A customer has entered the shop at time 9548
+A customer has entered the shop at time 9548
+A customer has been served at time 9548
+A customer has entered the shop at time 9570
+Customer who entered at 9570 will join queue till 10682
+A customer has entered the shop at time 9600
+Customer who entered at 9600 will join queue till 10713
+A customer has entered the shop at time 9627
+A customer has entered the shop at time 9627
+A customer has been served at time 9627
+A customer has entered the shop at time 9666
+Customer who entered at 9666 will join queue till 10807
+A customer has entered the shop at time 9743
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9761
+A customer has entered the shop at time 9761
+A customer has been served at time 9761
+A customer has entered the shop at time 9764
+Customer who entered at 9764 will join queue till 10868
+A customer has entered the shop at time 9765
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9773
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9794
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9802
+A customer has entered the shop at time 9802
+A customer has been served at time 9802
+A customer has entered the shop at time 9802
+Customer who entered at 9802 will join queue till 10884
+A customer has entered the shop at time 9826
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9869
+A customer has entered the shop at time 9869
+A customer has been served at time 9869
+A customer has entered the shop at time 9918
+Customer who entered at 9918 will join queue till 11027
+A customer has entered the shop at time 9921
+Overflow. A customer has been turned away
+A customer has entered the shop at time 9971
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10023
+A customer has entered the shop at time 10023
+A customer has been served at time 10023
+A customer has entered the shop at time 10032
+Customer who entered at 10032 will join queue till 11036
+A customer has entered the shop at time 10036
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10042
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10044
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10047
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10093
+A customer has entered the shop at time 10093
+A customer has been served at time 10093
+A customer has entered the shop at time 10094
+A customer has entered the shop at time 10094
+A customer has been served at time 10094
+A customer has entered the shop at time 10131
+Customer who entered at 10131 will join queue till 11095
+A customer has entered the shop at time 10133
+Customer who entered at 10133 will join queue till 11225
+A customer has entered the shop at time 10140
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10141
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10145
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10183
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10219
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10230
+A customer has entered the shop at time 10230
+A customer has been served at time 10230
+A customer has entered the shop at time 10232
+A customer has entered the shop at time 10232
+A customer has been served at time 10232
+A customer has entered the shop at time 10237
+Customer who entered at 10237 will join queue till 11322
+A customer has entered the shop at time 10321
+Customer who entered at 10321 will join queue till 11331
+A customer has entered the shop at time 10350
+A customer has entered the shop at time 10350
+A customer has been served at time 10350
+A customer has entered the shop at time 10362
+Customer who entered at 10362 will join queue till 11480
+A customer has entered the shop at time 10441
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10453
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10460
+A customer has entered the shop at time 10460
+A customer has been served at time 10460
+A customer has entered the shop at time 10478
+A customer has entered the shop at time 10478
+A customer has been served at time 10478
+A customer has entered the shop at time 10483
+Customer who entered at 10483 will join queue till 11499
+A customer has entered the shop at time 10485
+Customer who entered at 10485 will join queue till 11554
+A customer has entered the shop at time 10494
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10503
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10596
+A customer has entered the shop at time 10596
+A customer has been served at time 10596
+A customer has entered the shop at time 10622
+Customer who entered at 10622 will join queue till 11619
+A customer has entered the shop at time 10637
+A customer has entered the shop at time 10637
+A customer has been served at time 10637
+A customer has entered the shop at time 10640
+Customer who entered at 10640 will join queue till 11677
+A customer has entered the shop at time 10672
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10682
+A customer has entered the shop at time 10682
+A customer has been served at time 10682
+A customer has entered the shop at time 10702
+Customer who entered at 10702 will join queue till 11739
+A customer has entered the shop at time 10713
+A customer has entered the shop at time 10713
+A customer has been served at time 10713
+A customer has entered the shop at time 10750
+Customer who entered at 10750 will join queue till 11783
+A customer has entered the shop at time 10807
+A customer has entered the shop at time 10807
+A customer has been served at time 10807
+A customer has entered the shop at time 10822
+Customer who entered at 10822 will join queue till 11905
+A customer has entered the shop at time 10822
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10851
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10868
+A customer has entered the shop at time 10868
+A customer has been served at time 10868
+A customer has entered the shop at time 10884
+A customer has entered the shop at time 10884
+A customer has been served at time 10884
+A customer has entered the shop at time 10895
+Customer who entered at 10895 will join queue till 11910
+A customer has entered the shop at time 10912
+Customer who entered at 10912 will join queue till 12025
+A customer has entered the shop at time 10921
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10948
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10955
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10967
+Overflow. A customer has been turned away
+A customer has entered the shop at time 10982
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11026
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11027
+A customer has entered the shop at time 11027
+A customer has been served at time 11027
+A customer has entered the shop at time 11036
+A customer has entered the shop at time 11036
+A customer has been served at time 11036
+A customer has entered the shop at time 11095
+A customer has entered the shop at time 11095
+A customer has been served at time 11095
+A customer has entered the shop at time 11126
+Customer who entered at 11126 will join queue till 12118
+A customer has entered the shop at time 11131
+Customer who entered at 11131 will join queue till 12197
+A customer has entered the shop at time 11182
+Customer who entered at 11182 will join queue till 12234
+A customer has entered the shop at time 11225
+A customer has entered the shop at time 11225
+A customer has been served at time 11225
+A customer has entered the shop at time 11265
+Customer who entered at 11265 will join queue till 12428
+A customer has entered the shop at time 11287
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11309
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11322
+A customer has entered the shop at time 11322
+A customer has been served at time 11322
+A customer has entered the shop at time 11327
+Customer who entered at 11327 will join queue till 12460
+A customer has entered the shop at time 11331
+A customer has entered the shop at time 11331
+A customer has been served at time 11331
+A customer has entered the shop at time 11348
+Customer who entered at 11348 will join queue till 12536
+A customer has entered the shop at time 11389
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11441
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11480
+A customer has entered the shop at time 11480
+A customer has been served at time 11480
+A customer has entered the shop at time 11492
+Customer who entered at 11492 will join queue till 12661
+A customer has entered the shop at time 11492
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11499
+A customer has entered the shop at time 11499
+A customer has been served at time 11499
+A customer has entered the shop at time 11553
+Customer who entered at 11553 will join queue till 12734
+A customer has entered the shop at time 11554
+A customer has entered the shop at time 11554
+A customer has been served at time 11554
+A customer has entered the shop at time 11558
+Customer who entered at 11558 will join queue till 12882
+A customer has entered the shop at time 11560
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11600
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11615
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11619
+A customer has entered the shop at time 11619
+A customer has been served at time 11619
+A customer has entered the shop at time 11619
+Customer who entered at 11619 will join queue till 12935
+A customer has entered the shop at time 11645
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11677
+A customer has entered the shop at time 11677
+A customer has been served at time 11677
+A customer has entered the shop at time 11692
+Customer who entered at 11692 will join queue till 13000
+A customer has entered the shop at time 11700
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11704
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11720
+Overflow. A customer has been turned away
+A customer has entered the shop at time 11739
+A customer has entered the shop at time 11739
+A customer has been served at time 11739
+A customer has entered the shop at time 11745
+Customer who entered at 11745 will join queue till 13065
+A customer has entered the shop at time 11783
+A customer has entered the shop at time 11783
+A customer has been served at time 11783
+A customer has entered the shop at time 11905
+A customer has entered the shop at time 11905
+A customer has been served at time 11905
+A customer has entered the shop at time 11910
+A customer has entered the shop at time 11910
+A customer has been served at time 11910
+A customer has entered the shop at time 11927
+Customer who entered at 11927 will join queue till 13207
+A customer has entered the shop at time 11945
+Customer who entered at 11945 will join queue till 13213
+A customer has entered the shop at time 11990
+Customer who entered at 11990 will join queue till 13395
+A customer has entered the shop at time 12025
+A customer has entered the shop at time 12025
+A customer has been served at time 12025
+A customer has entered the shop at time 12069
+Customer who entered at 12069 will join queue till 13429
+A customer has entered the shop at time 12118
+A customer has entered the shop at time 12118
+A customer has been served at time 12118
+A customer has entered the shop at time 12196
+Customer who entered at 12196 will join queue till 13587
+A customer has entered the shop at time 12197
+A customer has entered the shop at time 12197
+A customer has been served at time 12197
+A customer has entered the shop at time 12234
+A customer has entered the shop at time 12234
+A customer has been served at time 12234
+A customer has entered the shop at time 12266
+Customer who entered at 12266 will join queue till 13629
+A customer has entered the shop at time 12337
+Customer who entered at 12337 will join queue till 13711
+A customer has entered the shop at time 12340
+Overflow. A customer has been turned away
+A customer has entered the shop at time 12345
+Overflow. A customer has been turned away
+A customer has entered the shop at time 12392
+Overflow. A customer has been turned away
+A customer has entered the shop at time 12428
+A customer has entered the shop at time 12428
+A customer has been served at time 12428
+A customer has entered the shop at time 12460
+A customer has entered the shop at time 12460
+A customer has been served at time 12460
+A customer has entered the shop at time 12486
+Customer who entered at 12486 will join queue till 13844
+A customer has entered the shop at time 12496
+Customer who entered at 12496 will join queue till 13872
+A customer has entered the shop at time 12536
+A customer has entered the shop at time 12536
+A customer has been served at time 12536
+A customer has entered the shop at time 12633
+Customer who entered at 12633 will join queue till 13928
+A customer has entered the shop at time 12661
+A customer has entered the shop at time 12661
+A customer has been served at time 12661
+A customer has entered the shop at time 12726
+Customer who entered at 12726 will join queue till 14026
+A customer has entered the shop at time 12734
+A customer has entered the shop at time 12734
+A customer has been served at time 12734
+A customer has entered the shop at time 12810
+Customer who entered at 12810 will join queue till 14049
+A customer has entered the shop at time 12882
+A customer has entered the shop at time 12882
+A customer has been served at time 12882
+A customer has entered the shop at time 12907
+Customer who entered at 12907 will join queue till 14146
+A customer has entered the shop at time 12935
+A customer has entered the shop at time 12935
+A customer has been served at time 12935
+A customer has entered the shop at time 12958
+Customer who entered at 12958 will join queue till 14172
+A customer has entered the shop at time 12969
+Overflow. A customer has been turned away
+A customer has entered the shop at time 13000
+A customer has entered the shop at time 13000
+A customer has been served at time 13000
+A customer has entered the shop at time 13065
+A customer has entered the shop at time 13065
+A customer has been served at time 13065
+A customer has entered the shop at time 13070
+Customer who entered at 13070 will join queue till 14230
+A customer has entered the shop at time 13142
+Customer who entered at 13142 will join queue till 14249
+A customer has entered the shop at time 13207
+A customer has entered the shop at time 13207
+A customer has been served at time 13207
+A customer has entered the shop at time 13213
+A customer has entered the shop at time 13213
+A customer has been served at time 13213
+A customer has entered the shop at time 13252
+Customer who entered at 13252 will join queue till 14404
+A customer has entered the shop at time 13287
+Customer who entered at 13287 will join queue till 14465
+A customer has entered the shop at time 13324
+Overflow. A customer has been turned away
+A customer has entered the shop at time 13369
+Overflow. A customer has been turned away
+A customer has entered the shop at time 13395
+A customer has entered the shop at time 13395
+A customer has been served at time 13395
+A customer has entered the shop at time 13404
+Customer who entered at 13404 will join queue till 14531
+A customer has entered the shop at time 13406
+Overflow. A customer has been turned away
+A customer has entered the shop at time 13426
+Overflow. A customer has been turned away
+A customer has entered the shop at time 13429
+A customer has entered the shop at time 13429
+A customer has been served at time 13429
+A customer has entered the shop at time 13464
+Customer who entered at 13464 will join queue till 14597
+A customer has entered the shop at time 13464
+Overflow. A customer has been turned away
+A customer has entered the shop at time 13587
+A customer has entered the shop at time 13587
+A customer has been served at time 13587
+A customer has entered the shop at time 13602
+Customer who entered at 13602 will join queue till 14608
+A customer has entered the shop at time 13629
+A customer has entered the shop at time 13629
+A customer has been served at time 13629
+A customer has entered the shop at time 13711
+A customer has entered the shop at time 13711
+A customer has been served at time 13711
+A customer has entered the shop at time 13774
+Customer who entered at 13774 will join queue till 14681
+A customer has entered the shop at time 13788
+Customer who entered at 13788 will join queue till 14697
+A customer has entered the shop at time 13829
+Overflow. A customer has been turned away
+A customer has entered the shop at time 13844
+A customer has entered the shop at time 13844
+A customer has been served at time 13844
+A customer has entered the shop at time 13866
+Customer who entered at 13866 will join queue till 14770
+A customer has entered the shop at time 13872
+A customer has entered the shop at time 13872
+A customer has been served at time 13872
+A customer has entered the shop at time 13928
+A customer has entered the shop at time 13928
+A customer has been served at time 13928
+A customer has entered the shop at time 13941
+Customer who entered at 13941 will join queue till 14920
+A customer has entered the shop at time 13949
+Customer who entered at 13949 will join queue till 14922
+A customer has entered the shop at time 14003
+Overflow. A customer has been turned away
+A customer has entered the shop at time 14004
+Overflow. A customer has been turned away
+A customer has entered the shop at time 14026
+A customer has entered the shop at time 14026
+A customer has been served at time 14026
+A customer has entered the shop at time 14049
+A customer has entered the shop at time 14049
+A customer has been served at time 14049
+A customer has entered the shop at time 14100
+Customer who entered at 14100 will join queue till 15070
+A customer has entered the shop at time 14146
+A customer has entered the shop at time 14146
+A customer has been served at time 14146
+A customer has entered the shop at time 14156
+Customer who entered at 14156 will join queue till 15093
+A customer has entered the shop at time 14172
+A customer has entered the shop at time 14172
+A customer has been served at time 14172
+A customer has entered the shop at time 14198
+Customer who entered at 14198 will join queue till 15148
+A customer has entered the shop at time 14212
+Customer who entered at 14212 will join queue till 15282
+A customer has entered the shop at time 14230
+A customer has entered the shop at time 14230
+A customer has been served at time 14230
+A customer has entered the shop at time 14231
+Customer who entered at 14231 will join queue till 15356
+A customer has entered the shop at time 14249
+A customer has entered the shop at time 14249
+A customer has been served at time 14249
+A customer has entered the shop at time 14254
+Customer who entered at 14254 will join queue till 15442
+A customer has entered the shop at time 14379
+Overflow. A customer has been turned away
+A customer has entered the shop at time 14404
+A customer has entered the shop at time 14404
+A customer has been served at time 14404
+A customer has entered the shop at time 14418
+Customer who entered at 14418 will join queue till 15517
+A customer has entered the shop at time 14465
+A customer has entered the shop at time 14465
+A customer has been served at time 14465
+A customer has entered the shop at time 14531
+A customer has entered the shop at time 14531
+A customer has been served at time 14531
+A customer has entered the shop at time 14543
+Customer who entered at 14543 will join queue till 15612
+A customer has entered the shop at time 14559
+Customer who entered at 14559 will join queue till 15735
+A customer has entered the shop at time 14569
+Overflow. A customer has been turned away
+A customer has entered the shop at time 14597
+A customer has entered the shop at time 14597
+A customer has been served at time 14597
+A customer has entered the shop at time 14608
+A customer has entered the shop at time 14608
+A customer has been served at time 14608
+A customer has entered the shop at time 14636
+Customer who entered at 14636 will join queue till 15841
+A customer has entered the shop at time 14681
+A customer has entered the shop at time 14681
+A customer has been served at time 14681
+A customer has entered the shop at time 14697
+A customer has entered the shop at time 14697
+A customer has been served at time 14697
+A customer has entered the shop at time 14770
+A customer has entered the shop at time 14770
+A customer has been served at time 14770
+A customer has entered the shop at time 14792
+Customer who entered at 14792 will join queue till 15906
+A customer has entered the shop at time 14826
+Customer who entered at 14826 will join queue till 15919
+A customer has entered the shop at time 14852
+Customer who entered at 14852 will join queue till 16038
+A customer has entered the shop at time 14864
+Customer who entered at 14864 will join queue till 16052
+A customer has entered the shop at time 14920
+A customer has entered the shop at time 14920
+A customer has been served at time 14920
+A customer has entered the shop at time 14922
+A customer has entered the shop at time 14922
+A customer has been served at time 14922
+A customer has entered the shop at time 15039
+Customer who entered at 15039 will join queue till 16193
+A customer has entered the shop at time 15070
+A customer has entered the shop at time 15070
+A customer has been served at time 15070
+A customer has entered the shop at time 15093
+A customer has entered the shop at time 15093
+A customer has been served at time 15093
+A customer has entered the shop at time 15125
+Customer who entered at 15125 will join queue till 16262
+A customer has entered the shop at time 15126
+Customer who entered at 15126 will join queue till 16265
+A customer has entered the shop at time 15146
+Customer who entered at 15146 will join queue till 16452
+A customer has entered the shop at time 15148
+A customer has entered the shop at time 15148
+A customer has been served at time 15148
+A customer has entered the shop at time 15203
+Customer who entered at 15203 will join queue till 16471
+A customer has entered the shop at time 15258
+Overflow. A customer has been turned away
+A customer has entered the shop at time 15282
+A customer has entered the shop at time 15282
+A customer has been served at time 15282
+A customer has entered the shop at time 15356
+A customer has entered the shop at time 15356
+A customer has been served at time 15356
+A customer has entered the shop at time 15397
+Customer who entered at 15397 will join queue till 16581
+A customer has entered the shop at time 15427
+Customer who entered at 15427 will join queue till 16658
+A customer has entered the shop at time 15431
+Overflow. A customer has been turned away
+A customer has entered the shop at time 15442
+A customer has entered the shop at time 15442
+A customer has been served at time 15442
+A customer has entered the shop at time 15517
+A customer has entered the shop at time 15517
+A customer has been served at time 15517
+A customer has entered the shop at time 15568
+Customer who entered at 15568 will join queue till 16659
+A customer has entered the shop at time 15612
+A customer has entered the shop at time 15612
+A customer has been served at time 15612
+A customer has entered the shop at time 15680
+Customer who entered at 15680 will join queue till 16819
+A customer has entered the shop at time 15705
+Customer who entered at 15705 will join queue till 16820
+A customer has entered the shop at time 15713
+Overflow. A customer has been turned away
+A customer has entered the shop at time 15735
+A customer has entered the shop at time 15735
+A customer has been served at time 15735
+A customer has entered the shop at time 15768
+Customer who entered at 15768 will join queue till 16896
+A customer has entered the shop at time 15841
+A customer has entered the shop at time 15841
+A customer has been served at time 15841
+A customer has entered the shop at time 15862
+Customer who entered at 15862 will join queue till 17045
+A customer has entered the shop at time 15877
+Overflow. A customer has been turned away
+A customer has entered the shop at time 15906
+A customer has entered the shop at time 15906
+A customer has been served at time 15906
+A customer has entered the shop at time 15919
+A customer has entered the shop at time 15919
+A customer has been served at time 15919
+A customer has entered the shop at time 15927
+Customer who entered at 15927 will join queue till 17131
+A customer has entered the shop at time 15951
+Customer who entered at 15951 will join queue till 17198
+A customer has entered the shop at time 15999
+Overflow. A customer has been turned away
+A customer has entered the shop at time 16038
+A customer has entered the shop at time 16038
+A customer has been served at time 16038
+A customer has entered the shop at time 16045
+Customer who entered at 16045 will join queue till 17198
+A customer has entered the shop at time 16052
+A customer has entered the shop at time 16052
+A customer has been served at time 16052
+A customer has entered the shop at time 16081
+Customer who entered at 16081 will join queue till 17401
+A customer has entered the shop at time 16193
+A customer has entered the shop at time 16193
+A customer has been served at time 16193
+A customer has entered the shop at time 16210
+Customer who entered at 16210 will join queue till 17407
+A customer has entered the shop at time 16248
+Overflow. A customer has been turned away
+A customer has entered the shop at time 16262
+A customer has entered the shop at time 16262
+A customer has been served at time 16262
+A customer has entered the shop at time 16264
+Customer who entered at 16264 will join queue till 17539
+A customer has entered the shop at time 16265
+A customer has entered the shop at time 16265
+A customer has been served at time 16265
+A customer has entered the shop at time 16357
+Customer who entered at 16357 will join queue till 17625
+A customer has entered the shop at time 16361
+Overflow. A customer has been turned away
+A customer has entered the shop at time 16381
+Overflow. A customer has been turned away
+A customer has entered the shop at time 16383
+Overflow. A customer has been turned away
+A customer has entered the shop at time 16452
+A customer has entered the shop at time 16452
+A customer has been served at time 16452
+A customer has entered the shop at time 16452
+Customer who entered at 16452 will join queue till 17691
+A customer has entered the shop at time 16471
+A customer has entered the shop at time 16471
+A customer has been served at time 16471
+A customer has entered the shop at time 16543
+Customer who entered at 16543 will join queue till 17705
+A customer has entered the shop at time 16545
+Overflow. A customer has been turned away
+A customer has entered the shop at time 16581
+A customer has entered the shop at time 16581
+A customer has been served at time 16581
+A customer has entered the shop at time 16596
+Customer who entered at 16596 will join queue till 17757
+A customer has entered the shop at time 16655
+Overflow. A customer has been turned away
+A customer has entered the shop at time 16658
+A customer has entered the shop at time 16658
+A customer has been served at time 16658
+A customer has entered the shop at time 16659
+A customer has entered the shop at time 16659
+A customer has been served at time 16659
+A customer has entered the shop at time 16732
+Customer who entered at 16732 will join queue till 17828
+A customer has entered the shop at time 16819
+A customer has entered the shop at time 16819
+A customer has been served at time 16819
+A customer has entered the shop at time 16820
+A customer has entered the shop at time 16820
+A customer has been served at time 16820
+A customer has entered the shop at time 16868
+Customer who entered at 16868 will join queue till 17833
+A customer has entered the shop at time 16896
+A customer has entered the shop at time 16896
+A customer has been served at time 16896
+A customer has entered the shop at time 16926
+Customer who entered at 16926 will join queue till 17995
+A customer has entered the shop at time 17013
+Customer who entered at 17013 will join queue till 18010
+A customer has entered the shop at time 17045
+A customer has entered the shop at time 17045
+A customer has been served at time 17045
+A customer has entered the shop at time 17056
+Customer who entered at 17056 will join queue till 18165
+A customer has entered the shop at time 17131
+A customer has entered the shop at time 17131
+A customer has been served at time 17131
+A customer has entered the shop at time 17198
+A customer has entered the shop at time 17198
+A customer has been served at time 17198
+A customer has entered the shop at time 17198
+A customer has entered the shop at time 17198
+A customer has been served at time 17198
+A customer has entered the shop at time 17235
+Customer who entered at 17235 will join queue till 18207
+A customer has entered the shop at time 17401
+A customer has entered the shop at time 17401
+A customer has been served at time 17401
+A customer has entered the shop at time 17402
+Customer who entered at 17402 will join queue till 18349
+A customer has entered the shop at time 17407
+A customer has entered the shop at time 17407
+A customer has been served at time 17407
+A customer has entered the shop at time 17488
+Customer who entered at 17488 will join queue till 18374
+A customer has entered the shop at time 17539
+A customer has entered the shop at time 17539
+A customer has been served at time 17539
+A customer has entered the shop at time 17559
+Customer who entered at 17559 will join queue till 18512
+A customer has entered the shop at time 17625
+A customer has entered the shop at time 17625
+A customer has been served at time 17625
+A customer has entered the shop at time 17628
+Customer who entered at 17628 will join queue till 18518
+A customer has entered the shop at time 17647
+Customer who entered at 17647 will join queue till 18616
+A customer has entered the shop at time 17691
+A customer has entered the shop at time 17691
+A customer has been served at time 17691
+A customer has entered the shop at time 17705
+A customer has entered the shop at time 17705
+A customer has been served at time 17705
+A customer has entered the shop at time 17709
+Customer who entered at 17709 will join queue till 18696
+A customer has entered the shop at time 17757
+A customer has entered the shop at time 17757
+A customer has been served at time 17757
+A customer has entered the shop at time 17816
+Customer who entered at 17816 will join queue till 18822
+A customer has entered the shop at time 17824
+Customer who entered at 17824 will join queue till 18896
+A customer has entered the shop at time 17828
+A customer has entered the shop at time 17828
+A customer has been served at time 17828
+A customer has entered the shop at time 17833
+A customer has entered the shop at time 17833
+A customer has been served at time 17833
+A customer has entered the shop at time 17840
+Customer who entered at 17840 will join queue till 18983
+A customer has entered the shop at time 17864
+Customer who entered at 17864 will join queue till 19030
+A customer has entered the shop at time 17890
+Customer who entered at 17890 will join queue till 19106
+A customer has entered the shop at time 17933
+Customer who entered at 17933 will join queue till 19165
+A customer has entered the shop at time 17995
+A customer has entered the shop at time 17995
+A customer has been served at time 17995
+A customer has entered the shop at time 18010
+A customer has entered the shop at time 18010
+A customer has been served at time 18010
+A customer has entered the shop at time 18039
+Customer who entered at 18039 will join queue till 19286
+A customer has entered the shop at time 18078
+Customer who entered at 18078 will join queue till 19341
+A customer has entered the shop at time 18109
+Overflow. A customer has been turned away
+A customer has entered the shop at time 18135
+Overflow. A customer has been turned away
+A customer has entered the shop at time 18161
+Overflow. A customer has been turned away
+A customer has entered the shop at time 18165
+A customer has entered the shop at time 18165
+A customer has been served at time 18165
+A customer has entered the shop at time 18207
+A customer has entered the shop at time 18207
+A customer has been served at time 18207
+A customer has entered the shop at time 18349
+A customer has entered the shop at time 18349
+A customer has been served at time 18349
+A customer has entered the shop at time 18374
+A customer has entered the shop at time 18374
+A customer has been served at time 18374
+A customer has entered the shop at time 18435
+Customer who entered at 18435 will join queue till 19386
+A customer has entered the shop at time 18479
+Customer who entered at 18479 will join queue till 19482
+A customer has entered the shop at time 18512
+A customer has entered the shop at time 18512
+A customer has been served at time 18512
+A customer has entered the shop at time 18518
+A customer has entered the shop at time 18518
+A customer has been served at time 18518
+A customer has entered the shop at time 18604
+Customer who entered at 18604 will join queue till 19493
+A customer has entered the shop at time 18616
+A customer has entered the shop at time 18616
+A customer has been served at time 18616
+A customer has entered the shop at time 18696
+A customer has entered the shop at time 18696
+A customer has been served at time 18696
+A customer has entered the shop at time 18720
+Customer who entered at 18720 will join queue till 19619
+A customer has entered the shop at time 18750
+Customer who entered at 18750 will join queue till 19701
+A customer has entered the shop at time 18822
+A customer has entered the shop at time 18822
+A customer has been served at time 18822
+A customer has entered the shop at time 18896
+A customer has entered the shop at time 18896
+A customer has been served at time 18896
+A customer has entered the shop at time 18899
+Customer who entered at 18899 will join queue till 19792
+A customer has entered the shop at time 18931
+Customer who entered at 18931 will join queue till 19924
+A customer has entered the shop at time 18983
+A customer has entered the shop at time 18983
+A customer has been served at time 18983
+A customer has entered the shop at time 19030
+A customer has entered the shop at time 19030
+A customer has been served at time 19030
+A customer has entered the shop at time 19106
+A customer has entered the shop at time 19106
+A customer has been served at time 19106
+A customer has entered the shop at time 19165
+A customer has entered the shop at time 19165
+A customer has been served at time 19165
+A customer has entered the shop at time 19217
+Customer who entered at 19217 will join queue till 19974
+A customer has entered the shop at time 19286
+A customer has entered the shop at time 19286
+A customer has been served at time 19286
+A customer has entered the shop at time 19341
+A customer has entered the shop at time 19341
+A customer has been served at time 19341
+A customer has entered the shop at time 19386
+A customer has entered the shop at time 19386
+A customer has been served at time 19386
+A customer has entered the shop at time 19419
+Customer who entered at 19419 will join queue till 20018
+A customer has entered the shop at time 19440
+Customer who entered at 19440 will join queue till 20098
+A customer has entered the shop at time 19482
+A customer has entered the shop at time 19482
+A customer has been served at time 19482
+A customer has entered the shop at time 19493
+A customer has entered the shop at time 19493
+A customer has been served at time 19493
+A customer has entered the shop at time 19619
+A customer has entered the shop at time 19619
+A customer has been served at time 19619
+A customer has entered the shop at time 19627
+Customer who entered at 19627 will join queue till 20104
+A customer has entered the shop at time 19699
+Customer who entered at 19699 will join queue till 20183
+A customer has entered the shop at time 19701
+A customer has entered the shop at time 19701
+A customer has been served at time 19701
+A customer has entered the shop at time 19701
+Customer who entered at 19701 will join queue till 20268
+A customer has entered the shop at time 19792
+A customer has entered the shop at time 19792
+A customer has been served at time 19792
+A customer has entered the shop at time 19810
+Customer who entered at 19810 will join queue till 20339
+A customer has entered the shop at time 19836
+Customer who entered at 19836 will join queue till 20369
+A customer has entered the shop at time 19877
+Customer who entered at 19877 will join queue till 20410
+A customer has entered the shop at time 19903
+Customer who entered at 19903 will join queue till 20532
+A customer has entered the shop at time 19924
+A customer has entered the shop at time 19924
+A customer has been served at time 19924
+A customer has entered the shop at time 19949
+Customer who entered at 19949 will join queue till 20598
+A customer has entered the shop at time 19974
+A customer has entered the shop at time 19974
+A customer has been served at time 19974
+A customer has entered the shop at time 20018
+A customer has entered the shop at time 20018
+A customer has been served at time 20018
+A customer has entered the shop at time 20098
+A customer has entered the shop at time 20098
+A customer has been served at time 20098
+A customer has entered the shop at time 20104
+A customer has entered the shop at time 20104
+A customer has been served at time 20104
+A customer has entered the shop at time 20141
+Customer who entered at 20141 will join queue till 20663
+A customer has entered the shop at time 20183
+A customer has entered the shop at time 20183
+A customer has been served at time 20183
+A customer has entered the shop at time 20246
+Customer who entered at 20246 will join queue till 20731
+A customer has entered the shop at time 20268
+A customer has entered the shop at time 20268
+A customer has been served at time 20268
+A customer has entered the shop at time 20294
+Customer who entered at 20294 will join queue till 20825
+A customer has entered the shop at time 20339
+A customer has entered the shop at time 20339
+A customer has been served at time 20339
+A customer has entered the shop at time 20369
+A customer has entered the shop at time 20369
+A customer has been served at time 20369
+A customer has entered the shop at time 20410
+A customer has entered the shop at time 20410
+A customer has been served at time 20410
+A customer has entered the shop at time 20532
+A customer has entered the shop at time 20532
+A customer has been served at time 20532
+A customer has entered the shop at time 20598
+A customer has entered the shop at time 20598
+A customer has been served at time 20598
+A customer has entered the shop at time 20663
+A customer has entered the shop at time 20663
+A customer has been served at time 20663
+A customer has entered the shop at time 20710
+Customer who entered at 20710 will join queue till 20848
+A customer has entered the shop at time 20731
+A customer has entered the shop at time 20731
+A customer has been served at time 20731
+A customer has entered the shop at time 20796
+Customer who entered at 20796 will join queue till 21056
+A customer has entered the shop at time 20825
+A customer has entered the shop at time 20825
+A customer has been served at time 20825
+A customer has entered the shop at time 20848
+A customer has entered the shop at time 20848
+A customer has been served at time 20848
+A customer has entered the shop at time 20913
+Customer who entered at 20913 will join queue till 21067
+A customer has entered the shop at time 20988
+Customer who entered at 20988 will join queue till 21178
+A customer has entered the shop at time 21035
+Customer who entered at 21035 will join queue till 21179
+A customer has entered the shop at time 21056
+A customer has entered the shop at time 21056
+A customer has been served at time 21056
+A customer has entered the shop at time 21067
+A customer has entered the shop at time 21067
+A customer has been served at time 21067
+A customer has entered the shop at time 21072
+Customer who entered at 21072 will join queue till 21387
+A customer has entered the shop at time 21111
+Customer who entered at 21111 will join queue till 21406
+A customer has entered the shop at time 21127
+Customer who entered at 21127 will join queue till 21493
+A customer has entered the shop at time 21178
+A customer has entered the shop at time 21178
+A customer has been served at time 21178
+A customer has entered the shop at time 21179
+A customer has entered the shop at time 21179
+A customer has been served at time 21179
+A customer has entered the shop at time 21191
+Customer who entered at 21191 will join queue till 21599
+A customer has entered the shop at time 21217
+Customer who entered at 21217 will join queue till 21629
+A customer has entered the shop at time 21291
+Customer who entered at 21291 will join queue till 21695
+A customer has entered the shop at time 21292
+Customer who entered at 21292 will join queue till 21702
+A customer has entered the shop at time 21343
+Customer who entered at 21343 will join queue till 21801
+A customer has entered the shop at time 21352
+Customer who entered at 21352 will join queue till 21870
+A customer has entered the shop at time 21387
+A customer has entered the shop at time 21387
+A customer has been served at time 21387
+A customer has entered the shop at time 21406
+A customer has entered the shop at time 21406
+A customer has been served at time 21406
+A customer has entered the shop at time 21493
+A customer has entered the shop at time 21493
+A customer has been served at time 21493
+A customer has entered the shop at time 21599
+A customer has entered the shop at time 21599
+A customer has been served at time 21599
+A customer has entered the shop at time 21629
+A customer has entered the shop at time 21629
+A customer has been served at time 21629
+A customer has entered the shop at time 21635
+Customer who entered at 21635 will join queue till 21951
+A customer has entered the shop at time 21695
+A customer has entered the shop at time 21695
+A customer has been served at time 21695
+A customer has entered the shop at time 21702
+A customer has entered the shop at time 21702
+A customer has been served at time 21702
+A customer has entered the shop at time 21732
+Customer who entered at 21732 will join queue till 21952
+A customer has entered the shop at time 21801
+A customer has entered the shop at time 21801
+A customer has been served at time 21801
+A customer has entered the shop at time 21836
+Customer who entered at 21836 will join queue till 22040
+A customer has entered the shop at time 21849
+Customer who entered at 21849 will join queue till 22065
+A customer has entered the shop at time 21870
+A customer has entered the shop at time 21870
+A customer has been served at time 21870
+A customer has entered the shop at time 21943
+Customer who entered at 21943 will join queue till 22154
+A customer has entered the shop at time 21944
+Customer who entered at 21944 will join queue till 22237
+A customer has entered the shop at time 21951
+A customer has entered the shop at time 21951
+A customer has been served at time 21951
+A customer has entered the shop at time 21952
+A customer has entered the shop at time 21952
+A customer has been served at time 21952
+A customer has entered the shop at time 21992
+Customer who entered at 21992 will join queue till 22262
+A customer has entered the shop at time 22010
+Customer who entered at 22010 will join queue till 22448
+A customer has entered the shop at time 22035
+Customer who entered at 22035 will join queue till 22470
+A customer has entered the shop at time 22040
+A customer has entered the shop at time 22040
+A customer has been served at time 22040
+A customer has entered the shop at time 22052
+Customer who entered at 22052 will join queue till 22651
+A customer has entered the shop at time 22065
+A customer has entered the shop at time 22065
+A customer has been served at time 22065
+A customer has entered the shop at time 22091
+Customer who entered at 22091 will join queue till 22670
+A customer has entered the shop at time 22154
+A customer has entered the shop at time 22154
+A customer has been served at time 22154
+A customer has entered the shop at time 22237
+A customer has entered the shop at time 22237
+A customer has been served at time 22237
+A customer has entered the shop at time 22262
+A customer has entered the shop at time 22262
+A customer has been served at time 22262
+A customer has entered the shop at time 22280
+Customer who entered at 22280 will join queue till 22751
+A customer has entered the shop at time 22341
+Customer who entered at 22341 will join queue till 22766
+A customer has entered the shop at time 22355
+Customer who entered at 22355 will join queue till 22852
+A customer has entered the shop at time 22448
+A customer has entered the shop at time 22448
+A customer has been served at time 22448
+A customer has entered the shop at time 22470
+A customer has entered the shop at time 22470
+A customer has been served at time 22470
+A customer has entered the shop at time 22521
+Customer who entered at 22521 will join queue till 22931
+A customer has entered the shop at time 22614
+Customer who entered at 22614 will join queue till 23002
+A customer has entered the shop at time 22651
+A customer has entered the shop at time 22651
+A customer has been served at time 22651
+A customer has entered the shop at time 22670
+A customer has entered the shop at time 22670
+A customer has been served at time 22670
+A customer has entered the shop at time 22718
+Customer who entered at 22718 will join queue till 23169
+A customer has entered the shop at time 22751
+A customer has entered the shop at time 22751
+A customer has been served at time 22751
+A customer has entered the shop at time 22766
+A customer has entered the shop at time 22766
+A customer has been served at time 22766
+A customer has entered the shop at time 22814
+Customer who entered at 22814 will join queue till 23182
+A customer has entered the shop at time 22852
+A customer has entered the shop at time 22852
+A customer has been served at time 22852
+A customer has entered the shop at time 22862
+Customer who entered at 22862 will join queue till 23251
+A customer has entered the shop at time 22931
+A customer has entered the shop at time 22931
+A customer has been served at time 22931
+A customer has entered the shop at time 23002
+A customer has entered the shop at time 23002
+A customer has been served at time 23002
+A customer has entered the shop at time 23056
+Customer who entered at 23056 will join queue till 23344
+A customer has entered the shop at time 23169
+A customer has entered the shop at time 23169
+A customer has been served at time 23169
+A customer has entered the shop at time 23182
+A customer has entered the shop at time 23182
+A customer has been served at time 23182
+A customer has entered the shop at time 23251
+A customer has entered the shop at time 23251
+A customer has been served at time 23251
+A customer has entered the shop at time 23255
+Customer who entered at 23255 will join queue till 23409
+A customer has entered the shop at time 23276
+Customer who entered at 23276 will join queue till 23467
+A customer has entered the shop at time 23278
+Customer who entered at 23278 will join queue till 23473
+A customer has entered the shop at time 23306
+Customer who entered at 23306 will join queue till 23582
+A customer has entered the shop at time 23322
+Customer who entered at 23322 will join queue till 23612
+A customer has entered the shop at time 23344
+A customer has entered the shop at time 23344
+A customer has been served at time 23344
+A customer has entered the shop at time 23409
+A customer has entered the shop at time 23409
+A customer has been served at time 23409
+A customer has entered the shop at time 23467
+A customer has entered the shop at time 23467
+A customer has been served at time 23467
+A customer has entered the shop at time 23473
+A customer has entered the shop at time 23473
+A customer has been served at time 23473
+A customer has entered the shop at time 23497
+Customer who entered at 23497 will join queue till 23790
+A customer has entered the shop at time 23582
+A customer has entered the shop at time 23582
+A customer has been served at time 23582
+A customer has entered the shop at time 23583
+Customer who entered at 23583 will join queue till 23796
+A customer has entered the shop at time 23598
+Customer who entered at 23598 will join queue till 23960
+A customer has entered the shop at time 23612
+A customer has entered the shop at time 23612
+A customer has been served at time 23612
+A customer has entered the shop at time 23790
+A customer has entered the shop at time 23790
+A customer has been served at time 23790
+A customer has entered the shop at time 23796
+A customer has entered the shop at time 23796
+A customer has been served at time 23796
+A customer has entered the shop at time 23875
+Customer who entered at 23875 will join queue till 23961
+A customer has entered the shop at time 23960
+A customer has entered the shop at time 23960
+A customer has been served at time 23960
+A customer has entered the shop at time 23961
+A customer has entered the shop at time 23961
+A customer has been served at time 23961
+A customer has entered the shop at time 23992
+A customer has entered the shop at time 24018
+A customer has entered the shop at time 24069
+Customer who entered at 24069 will join queue till 24025
+A customer has entered the shop at time 24025
+A customer has entered the shop at time 24069
+Customer who entered at 24069 will join queue till 24132
+A customer has entered the shop at time 24098
+A customer has been served at time 24098
+A customer has entered the shop at time 24098
+A customer has entered the shop at time 24098
+A customer has been served at time 24098
+A customer has entered the shop at time 24132
+A customer has entered the shop at time 24132
+A customer has been served at time 24132
+A customer has entered the shop at time 24156
+A customer has entered the shop at time 24186
+Customer who entered at 24186 will join queue till 24178
+A customer has entered the shop at time 24178
+A customer has entered the shop at time 24193
+A customer has entered the shop at time 24240
+Customer who entered at 24240 will join queue till 24260
+A customer has entered the shop at time 24247
+A customer has been served at time 24247
+A customer has entered the shop at time 24247
+A customer has entered the shop at time 24247
+A customer has been served at time 24247
+A customer has entered the shop at time 24260
+A customer has entered the shop at time 24260
+A customer has been served at time 24260
+A customer has entered the shop at time 24361
+A customer has entered the shop at time 24379
+A customer has been served at time 24379
+A customer has entered the shop at time 24406
+A customer has entered the shop at time 24422
+Customer who entered at 24422 will join queue till 24545
+A customer has entered the shop at time 24545
+A customer has been served at time 24545
+A customer has entered the shop at time 24545
+A customer has entered the shop at time 24545
+A customer has been served at time 24545
+A customer has entered the shop at time 24560
+A customer has been served at time 24560
+A customer has entered the shop at time 24827
+A customer has entered the shop at time 24847
+A customer has entered the shop at time 24897
+Customer who entered at 24897 will join queue till 25061
+A customer has entered the shop at time 24897
+Customer who entered at 24897 will join queue till 25131
+A customer has entered the shop at time 24947
+Customer who entered at 24947 will join queue till 25322
+A customer has entered the shop at time 24968
+A customer has been served at time 24968
+A customer has entered the shop at time 24980
+Customer who entered at 24980 will join queue till 25462
+A customer has entered the shop at time 25002
+Customer who entered at 25002 will join queue till 25572
+A customer has entered the shop at time 25061
+A customer has been served at time 25061
+A customer has entered the shop at time 25061
+A customer has entered the shop at time 25061
+A customer has been served at time 25061
+A customer has entered the shop at time 25131
+A customer has entered the shop at time 25131
+A customer has been served at time 25131
+A customer has entered the shop at time 25195
+Customer who entered at 25195 will join queue till 25714
+A customer has entered the shop at time 25250
+Customer who entered at 25250 will join queue till 25841
+A customer has entered the shop at time 25267
+Customer who entered at 25267 will join queue till 25928
+A customer has entered the shop at time 25322
+A customer has entered the shop at time 25322
+A customer has been served at time 25322
+A customer has entered the shop at time 25378
+Customer who entered at 25378 will join queue till 26009
+A customer has entered the shop at time 25448
+Customer who entered at 25448 will join queue till 26237
+A customer has entered the shop at time 25462
+A customer has entered the shop at time 25462
+A customer has been served at time 25462
+A customer has entered the shop at time 25508
+Customer who entered at 25508 will join queue till 26400
+A customer has entered the shop at time 25572
+A customer has entered the shop at time 25572
+A customer has been served at time 25572
+A customer has entered the shop at time 25595
+Customer who entered at 25595 will join queue till 26547
+A customer has entered the shop at time 25645
+Customer who entered at 25645 will join queue till 26785
+A customer has entered the shop at time 25714
+A customer has entered the shop at time 25714
+A customer has been served at time 25714
+A customer has entered the shop at time 25841
+A customer has entered the shop at time 25841
+A customer has been served at time 25841
+A customer has entered the shop at time 25862
+Customer who entered at 25862 will join queue till 26869
+A customer has entered the shop at time 25902
+Customer who entered at 25902 will join queue till 26994
+A customer has entered the shop at time 25910
+Customer who entered at 25910 will join queue till 27111
+A customer has entered the shop at time 25928
+A customer has entered the shop at time 25928
+A customer has been served at time 25928
+A customer has entered the shop at time 25948
+Customer who entered at 25948 will join queue till 27204
+A customer has entered the shop at time 26009
+A customer has entered the shop at time 26009
+A customer has been served at time 26009
+A customer has entered the shop at time 26164
+Customer who entered at 26164 will join queue till 27401
+A customer has entered the shop at time 26237
+A customer has entered the shop at time 26237
+A customer has been served at time 26237
+A customer has entered the shop at time 26339
+Customer who entered at 26339 will join queue till 27502
+A customer has entered the shop at time 26350
+Customer who entered at 26350 will join queue till 27735
+A customer has entered the shop at time 26392
+Customer who entered at 26392 will join queue till 27801
+A customer has entered the shop at time 26399
+Customer who entered at 26399 will join queue till 27866
+A customer has entered the shop at time 26400
+A customer has entered the shop at time 26400
+A customer has been served at time 26400
+A customer has entered the shop at time 26402
+Customer who entered at 26402 will join queue till 27995
+A customer has entered the shop at time 26425
+Customer who entered at 26425 will join queue till 28178
+A customer has entered the shop at time 26482
+Customer who entered at 26482 will join queue till 28303
+A customer has entered the shop at time 26520
+Customer who entered at 26520 will join queue till 28436
+A customer has entered the shop at time 26528
+Customer who entered at 26528 will join queue till 28551
+A customer has entered the shop at time 26547
+A customer has entered the shop at time 26547
+A customer has been served at time 26547
+A customer has entered the shop at time 26558
+Customer who entered at 26558 will join queue till 28644
+A customer has entered the shop at time 26672
+Overflow. A customer has been turned away
+A customer has entered the shop at time 26739
+Overflow. A customer has been turned away
+A customer has entered the shop at time 26769
+Overflow. A customer has been turned away
+A customer has entered the shop at time 26785
+A customer has entered the shop at time 26785
+A customer has been served at time 26785
+A customer has entered the shop at time 26869
+A customer has entered the shop at time 26869
+A customer has been served at time 26869
+A customer has entered the shop at time 26874
+Customer who entered at 26874 will join queue till 28829
+A customer has entered the shop at time 26933
+Customer who entered at 26933 will join queue till 28935
+A customer has entered the shop at time 26994
+A customer has entered the shop at time 26994
+A customer has been served at time 26994
+A customer has entered the shop at time 27034
+Customer who entered at 27034 will join queue till 29054
+A customer has entered the shop at time 27111
+A customer has entered the shop at time 27111
+A customer has been served at time 27111
+A customer has entered the shop at time 27119
+Customer who entered at 27119 will join queue till 29277
+A customer has entered the shop at time 27131
+Overflow. A customer has been turned away
+A customer has entered the shop at time 27141
+Overflow. A customer has been turned away
+A customer has entered the shop at time 27171
+Overflow. A customer has been turned away
+A customer has entered the shop at time 27204
+A customer has entered the shop at time 27204
+A customer has been served at time 27204
+A customer has entered the shop at time 27261
+Customer who entered at 27261 will join queue till 29445
+A customer has entered the shop at time 27272
+Overflow. A customer has been turned away
+A customer has entered the shop at time 27401
+A customer has entered the shop at time 27401
+A customer has been served at time 27401
+A customer has entered the shop at time 27473
+Customer who entered at 27473 will join queue till 29643
+A customer has entered the shop at time 27485
+Overflow. A customer has been turned away
+A customer has entered the shop at time 27492
+Overflow. A customer has been turned away
+A customer has entered the shop at time 27502
+A customer has entered the shop at time 27502
+A customer has been served at time 27502
+A customer has entered the shop at time 27662
+Customer who entered at 27662 will join queue till 29746
+A customer has entered the shop at time 27735
+A customer has entered the shop at time 27735
+A customer has been served at time 27735
+A customer has entered the shop at time 27756
+Customer who entered at 27756 will join queue till 29870
+A customer has entered the shop at time 27801
+A customer has entered the shop at time 27801
+A customer has been served at time 27801
+A customer has entered the shop at time 27866
+A customer has entered the shop at time 27866
+A customer has been served at time 27866
+A customer has entered the shop at time 27896
+Customer who entered at 27896 will join queue till 29953
+A customer has entered the shop at time 27981
+Customer who entered at 27981 will join queue till 30128
+A customer has entered the shop at time 27995
+A customer has entered the shop at time 27995
+A customer has been served at time 27995
+A customer has entered the shop at time 27999
+Customer who entered at 27999 will join queue till 30307
+A customer has entered the shop at time 28018
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28081
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28178
+A customer has entered the shop at time 28178
+A customer has been served at time 28178
+A customer has entered the shop at time 28206
+Customer who entered at 28206 will join queue till 30384
+A customer has entered the shop at time 28260
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28303
+A customer has entered the shop at time 28303
+A customer has been served at time 28303
+A customer has entered the shop at time 28357
+Customer who entered at 28357 will join queue till 30547
+A customer has entered the shop at time 28418
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28427
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28432
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28436
+A customer has entered the shop at time 28436
+A customer has been served at time 28436
+A customer has entered the shop at time 28475
+Customer who entered at 28475 will join queue till 30752
+A customer has entered the shop at time 28507
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28543
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28551
+A customer has entered the shop at time 28551
+A customer has been served at time 28551
+A customer has entered the shop at time 28570
+Customer who entered at 28570 will join queue till 30905
+A customer has entered the shop at time 28615
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28643
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28644
+A customer has entered the shop at time 28644
+A customer has been served at time 28644
+A customer has entered the shop at time 28712
+Customer who entered at 28712 will join queue till 31132
+A customer has entered the shop at time 28806
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28829
+A customer has entered the shop at time 28829
+A customer has been served at time 28829
+A customer has entered the shop at time 28864
+Customer who entered at 28864 will join queue till 31301
+A customer has entered the shop at time 28870
+Overflow. A customer has been turned away
+A customer has entered the shop at time 28935
+A customer has entered the shop at time 28935
+A customer has been served at time 28935
+A customer has entered the shop at time 28973
+Customer who entered at 28973 will join queue till 31489
+A customer has entered the shop at time 29037
+Overflow. A customer has been turned away
+A customer has entered the shop at time 29054
+A customer has entered the shop at time 29054
+A customer has been served at time 29054
+A customer has entered the shop at time 29061
+Customer who entered at 29061 will join queue till 31577
+A customer has entered the shop at time 29070
+Overflow. A customer has been turned away
+A customer has entered the shop at time 29129
+Overflow. A customer has been turned away
+A customer has entered the shop at time 29193
+Overflow. A customer has been turned away
+A customer has entered the shop at time 29277
+A customer has entered the shop at time 29277
+A customer has been served at time 29277
+A customer has entered the shop at time 29353
+Customer who entered at 29353 will join queue till 31740
+A customer has entered the shop at time 29355
+Overflow. A customer has been turned away
+A customer has entered the shop at time 29368
+Overflow. A customer has been turned away
+A customer has entered the shop at time 29416
+Overflow. A customer has been turned away
+A customer has entered the shop at time 29445
+A customer has entered the shop at time 29445
+A customer has been served at time 29445
+A customer has entered the shop at time 29447
+Customer who entered at 29447 will join queue till 31871
+A customer has entered the shop at time 29589
+Overflow. A customer has been turned away
+A customer has entered the shop at time 29643
+A customer has entered the shop at time 29643
+A customer has been served at time 29643
+A customer has entered the shop at time 29716
+Customer who entered at 29716 will join queue till 32070
+A customer has entered the shop at time 29746
+A customer has entered the shop at time 29746
+A customer has been served at time 29746
+A customer has entered the shop at time 29863
+Customer who entered at 29863 will join queue till 32239
+A customer has entered the shop at time 29870
+A customer has entered the shop at time 29870
+A customer has been served at time 29870
+A customer has entered the shop at time 29940
+Customer who entered at 29940 will join queue till 32380
+A customer has entered the shop at time 29953
+A customer has entered the shop at time 29953
+A customer has been served at time 29953
+A customer has entered the shop at time 30029
+Customer who entered at 30029 will join queue till 32583
+A customer has entered the shop at time 30068
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30128
+A customer has entered the shop at time 30128
+A customer has been served at time 30128
+A customer has entered the shop at time 30128
+Customer who entered at 30128 will join queue till 32799
+A customer has entered the shop at time 30157
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30202
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30233
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30236
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30245
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30279
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30307
+A customer has entered the shop at time 30307
+A customer has been served at time 30307
+A customer has entered the shop at time 30356
+Customer who entered at 30356 will join queue till 33035
+A customer has entered the shop at time 30384
+A customer has entered the shop at time 30384
+A customer has been served at time 30384
+A customer has entered the shop at time 30543
+Customer who entered at 30543 will join queue till 33205
+A customer has entered the shop at time 30547
+A customer has entered the shop at time 30547
+A customer has been served at time 30547
+A customer has entered the shop at time 30606
+Customer who entered at 30606 will join queue till 33380
+A customer has entered the shop at time 30635
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30745
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30752
+A customer has entered the shop at time 30752
+A customer has been served at time 30752
+A customer has entered the shop at time 30753
+Customer who entered at 30753 will join queue till 33561
+A customer has entered the shop at time 30777
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30788
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30806
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30812
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30880
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30898
+Overflow. A customer has been turned away
+A customer has entered the shop at time 30905
+A customer has entered the shop at time 30905
+A customer has been served at time 30905
+A customer has entered the shop at time 31132
+A customer has entered the shop at time 31132
+A customer has been served at time 31132
+A customer has entered the shop at time 31189
+Customer who entered at 31189 will join queue till 33641
+A customer has entered the shop at time 31199
+Customer who entered at 31199 will join queue till 33792
+A customer has entered the shop at time 31243
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31291
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31301
+A customer has entered the shop at time 31301
+A customer has been served at time 31301
+A customer has entered the shop at time 31349
+Customer who entered at 31349 will join queue till 34010
+A customer has entered the shop at time 31478
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31489
+A customer has entered the shop at time 31489
+A customer has been served at time 31489
+A customer has entered the shop at time 31574
+Customer who entered at 31574 will join queue till 34216
+A customer has entered the shop at time 31577
+A customer has entered the shop at time 31577
+A customer has been served at time 31577
+A customer has entered the shop at time 31596
+Customer who entered at 31596 will join queue till 34354
+A customer has entered the shop at time 31616
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31630
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31642
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31740
+A customer has entered the shop at time 31740
+A customer has been served at time 31740
+A customer has entered the shop at time 31785
+Customer who entered at 31785 will join queue till 34498
+A customer has entered the shop at time 31806
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31824
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31857
+Overflow. A customer has been turned away
+A customer has entered the shop at time 31871
+A customer has entered the shop at time 31871
+A customer has been served at time 31871
+A customer has entered the shop at time 31903
+Customer who entered at 31903 will join queue till 34730
+A customer has entered the shop at time 31982
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32026
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32070
+A customer has entered the shop at time 32070
+A customer has been served at time 32070
+A customer has entered the shop at time 32074
+Customer who entered at 32074 will join queue till 34826
+A customer has entered the shop at time 32239
+A customer has entered the shop at time 32239
+A customer has been served at time 32239
+A customer has entered the shop at time 32276
+Customer who entered at 32276 will join queue till 34899
+A customer has entered the shop at time 32326
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32335
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32355
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32380
+A customer has entered the shop at time 32380
+A customer has been served at time 32380
+A customer has entered the shop at time 32467
+Customer who entered at 32467 will join queue till 35133
+A customer has entered the shop at time 32500
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32520
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32583
+A customer has entered the shop at time 32583
+A customer has been served at time 32583
+A customer has entered the shop at time 32585
+Customer who entered at 32585 will join queue till 35310
+A customer has entered the shop at time 32598
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32702
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32715
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32741
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32799
+A customer has entered the shop at time 32799
+A customer has been served at time 32799
+A customer has entered the shop at time 32800
+Customer who entered at 32800 will join queue till 35388
+A customer has entered the shop at time 32801
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32829
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32953
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32959
+Overflow. A customer has been turned away
+A customer has entered the shop at time 32974
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33008
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33035
+A customer has entered the shop at time 33035
+A customer has been served at time 33035
+A customer has entered the shop at time 33094
+Customer who entered at 33094 will join queue till 35491
+A customer has entered the shop at time 33159
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33199
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33205
+A customer has entered the shop at time 33205
+A customer has been served at time 33205
+A customer has entered the shop at time 33261
+Customer who entered at 33261 will join queue till 35720
+A customer has entered the shop at time 33332
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33363
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33380
+A customer has entered the shop at time 33380
+A customer has been served at time 33380
+A customer has entered the shop at time 33503
+Customer who entered at 33503 will join queue till 35826
+A customer has entered the shop at time 33553
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33561
+A customer has entered the shop at time 33561
+A customer has been served at time 33561
+A customer has entered the shop at time 33593
+Customer who entered at 33593 will join queue till 35899
+A customer has entered the shop at time 33626
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33632
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33641
+A customer has entered the shop at time 33641
+A customer has been served at time 33641
+A customer has entered the shop at time 33669
+Customer who entered at 33669 will join queue till 35985
+A customer has entered the shop at time 33703
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33716
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33774
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33792
+A customer has entered the shop at time 33792
+A customer has been served at time 33792
+A customer has entered the shop at time 33800
+Customer who entered at 33800 will join queue till 36202
+A customer has entered the shop at time 33896
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33918
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33927
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33937
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33969
+Overflow. A customer has been turned away
+A customer has entered the shop at time 33984
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34010
+A customer has entered the shop at time 34010
+A customer has been served at time 34010
+A customer has entered the shop at time 34086
+Customer who entered at 34086 will join queue till 36266
+A customer has entered the shop at time 34162
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34216
+A customer has entered the shop at time 34216
+A customer has been served at time 34216
+A customer has entered the shop at time 34229
+Customer who entered at 34229 will join queue till 36397
+A customer has entered the shop at time 34267
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34273
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34276
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34322
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34354
+A customer has entered the shop at time 34354
+A customer has been served at time 34354
+A customer has entered the shop at time 34388
+Customer who entered at 34388 will join queue till 36581
+A customer has entered the shop at time 34413
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34492
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34497
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34498
+A customer has entered the shop at time 34498
+A customer has been served at time 34498
+A customer has entered the shop at time 34509
+Customer who entered at 34509 will join queue till 36812
+A customer has entered the shop at time 34591
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34607
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34615
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34649
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34675
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34676
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34730
+A customer has entered the shop at time 34730
+A customer has been served at time 34730
+A customer has entered the shop at time 34763
+Customer who entered at 34763 will join queue till 36993
+A customer has entered the shop at time 34794
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34825
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34826
+A customer has entered the shop at time 34826
+A customer has been served at time 34826
+A customer has entered the shop at time 34847
+Customer who entered at 34847 will join queue till 37087
+A customer has entered the shop at time 34890
+Overflow. A customer has been turned away
+A customer has entered the shop at time 34899
+A customer has entered the shop at time 34899
+A customer has been served at time 34899
+A customer has entered the shop at time 34899
+Customer who entered at 34899 will join queue till 37319
+A customer has entered the shop at time 34931
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35009
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35076
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35088
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35113
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35114
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35129
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35133
+A customer has entered the shop at time 35133
+A customer has been served at time 35133
+A customer has entered the shop at time 35133
+Customer who entered at 35133 will join queue till 37477
+A customer has entered the shop at time 35175
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35292
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35310
+A customer has entered the shop at time 35310
+A customer has been served at time 35310
+A customer has entered the shop at time 35331
+Customer who entered at 35331 will join queue till 37580
+A customer has entered the shop at time 35388
+A customer has entered the shop at time 35388
+A customer has been served at time 35388
+A customer has entered the shop at time 35395
+Customer who entered at 35395 will join queue till 37694
+A customer has entered the shop at time 35413
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35491
+A customer has entered the shop at time 35491
+A customer has been served at time 35491
+A customer has entered the shop at time 35494
+Customer who entered at 35494 will join queue till 37822
+A customer has entered the shop at time 35518
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35541
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35560
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35598
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35603
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35608
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35701
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35720
+A customer has entered the shop at time 35720
+A customer has been served at time 35720
+A customer has entered the shop at time 35727
+Customer who entered at 35727 will join queue till 37899
+A customer has entered the shop at time 35778
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35783
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35785
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35785
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35808
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35826
+A customer has entered the shop at time 35826
+A customer has been served at time 35826
+A customer has entered the shop at time 35878
+Customer who entered at 35878 will join queue till 38036
+A customer has entered the shop at time 35899
+A customer has entered the shop at time 35899
+A customer has been served at time 35899
+A customer has entered the shop at time 35923
+Customer who entered at 35923 will join queue till 38246
+A customer has entered the shop at time 35943
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35956
+Overflow. A customer has been turned away
+A customer has entered the shop at time 35985
+A customer has entered the shop at time 35985
+A customer has been served at time 35985
+A customer has entered the shop at time 36008
+Customer who entered at 36008 will join queue till 38375
+A customer has entered the shop at time 36060
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36076
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36112
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36125
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36159
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36202
+A customer has entered the shop at time 36202
+A customer has been served at time 36202
+A customer has entered the shop at time 36241
+Customer who entered at 36241 will join queue till 38447
+A customer has entered the shop at time 36266
+A customer has entered the shop at time 36266
+A customer has been served at time 36266
+A customer has entered the shop at time 36312
+Customer who entered at 36312 will join queue till 38570
+A customer has entered the shop at time 36332
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36338
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36350
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36397
+A customer has entered the shop at time 36397
+A customer has been served at time 36397
+A customer has entered the shop at time 36397
+Customer who entered at 36397 will join queue till 38671
+A customer has entered the shop at time 36437
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36581
+A customer has entered the shop at time 36581
+A customer has been served at time 36581
+A customer has entered the shop at time 36658
+Customer who entered at 36658 will join queue till 38784
+A customer has entered the shop at time 36662
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36734
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36736
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36749
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36754
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36764
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36790
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36794
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36812
+A customer has entered the shop at time 36812
+A customer has been served at time 36812
+A customer has entered the shop at time 36843
+Customer who entered at 36843 will join queue till 38985
+A customer has entered the shop at time 36922
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36936
+Overflow. A customer has been turned away
+A customer has entered the shop at time 36993
+A customer has entered the shop at time 36993
+A customer has been served at time 36993
+A customer has entered the shop at time 37025
+Customer who entered at 37025 will join queue till 39208
+A customer has entered the shop at time 37036
+Overflow. A customer has been turned away
+A customer has entered the shop at time 37087
+A customer has entered the shop at time 37087
+A customer has been served at time 37087
+A customer has entered the shop at time 37150
+Customer who entered at 37150 will join queue till 39319
+A customer has entered the shop at time 37186
+Overflow. A customer has been turned away
+A customer has entered the shop at time 37215
+Overflow. A customer has been turned away
+A customer has entered the shop at time 37319
+A customer has entered the shop at time 37319
+A customer has been served at time 37319
+A customer has entered the shop at time 37385
+Customer who entered at 37385 will join queue till 39483
+A customer has entered the shop at time 37412
+Overflow. A customer has been turned away
+A customer has entered the shop at time 37477
+A customer has entered the shop at time 37477
+A customer has been served at time 37477
+A customer has entered the shop at time 37580
+A customer has entered the shop at time 37580
+A customer has been served at time 37580
+A customer has entered the shop at time 37630
+Customer who entered at 37630 will join queue till 39658
+A customer has entered the shop at time 37658
+Customer who entered at 37658 will join queue till 39814
+A customer has entered the shop at time 37669
+Overflow. A customer has been turned away
+A customer has entered the shop at time 37694
+A customer has entered the shop at time 37694
+A customer has been served at time 37694
+A customer has entered the shop at time 37822
+A customer has entered the shop at time 37822
+A customer has been served at time 37822
+A customer has entered the shop at time 37823
+Customer who entered at 37823 will join queue till 39900
+A customer has entered the shop at time 37883
+Customer who entered at 37883 will join queue till 39971
+A customer has entered the shop at time 37899
+A customer has entered the shop at time 37899
+A customer has been served at time 37899
+A customer has entered the shop at time 37965
+Customer who entered at 37965 will join queue till 40202
+A customer has entered the shop at time 37969
+Overflow. A customer has been turned away
+A customer has entered the shop at time 37988
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38007
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38020
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38036
+A customer has entered the shop at time 38036
+A customer has been served at time 38036
+A customer has entered the shop at time 38065
+Customer who entered at 38065 will join queue till 40311
+A customer has entered the shop at time 38101
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38189
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38195
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38206
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38222
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38231
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38232
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38232
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38246
+A customer has entered the shop at time 38246
+A customer has been served at time 38246
+A customer has entered the shop at time 38323
+Customer who entered at 38323 will join queue till 40373
+A customer has entered the shop at time 38353
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38375
+A customer has entered the shop at time 38375
+A customer has been served at time 38375
+A customer has entered the shop at time 38425
+Customer who entered at 38425 will join queue till 40481
+A customer has entered the shop at time 38438
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38447
+A customer has entered the shop at time 38447
+A customer has been served at time 38447
+A customer has entered the shop at time 38485
+Customer who entered at 38485 will join queue till 40701
+A customer has entered the shop at time 38570
+A customer has entered the shop at time 38570
+A customer has been served at time 38570
+A customer has entered the shop at time 38671
+A customer has entered the shop at time 38671
+A customer has been served at time 38671
+A customer has entered the shop at time 38685
+Customer who entered at 38685 will join queue till 40846
+A customer has entered the shop at time 38701
+Customer who entered at 38701 will join queue till 40962
+A customer has entered the shop at time 38784
+A customer has entered the shop at time 38784
+A customer has been served at time 38784
+A customer has entered the shop at time 38791
+Customer who entered at 38791 will join queue till 41043
+A customer has entered the shop at time 38829
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38830
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38838
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38907
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38910
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38915
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38932
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38939
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38961
+Overflow. A customer has been turned away
+A customer has entered the shop at time 38985
+A customer has entered the shop at time 38985
+A customer has been served at time 38985
+A customer has entered the shop at time 39000
+Customer who entered at 39000 will join queue till 41226
+A customer has entered the shop at time 39007
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39023
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39055
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39074
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39177
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39182
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39208
+A customer has entered the shop at time 39208
+A customer has been served at time 39208
+A customer has entered the shop at time 39226
+Customer who entered at 39226 will join queue till 41293
+A customer has entered the shop at time 39227
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39319
+A customer has entered the shop at time 39319
+A customer has been served at time 39319
+A customer has entered the shop at time 39346
+Customer who entered at 39346 will join queue till 41460
+A customer has entered the shop at time 39403
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39447
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39483
+A customer has entered the shop at time 39483
+A customer has been served at time 39483
+A customer has entered the shop at time 39501
+Customer who entered at 39501 will join queue till 41605
+A customer has entered the shop at time 39613
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39613
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39637
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39658
+A customer has entered the shop at time 39658
+A customer has been served at time 39658
+A customer has entered the shop at time 39688
+Customer who entered at 39688 will join queue till 41760
+A customer has entered the shop at time 39689
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39693
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39757
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39811
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39814
+A customer has entered the shop at time 39814
+A customer has been served at time 39814
+A customer has entered the shop at time 39817
+Customer who entered at 39817 will join queue till 41894
+A customer has entered the shop at time 39866
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39877
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39900
+A customer has entered the shop at time 39900
+A customer has been served at time 39900
+A customer has entered the shop at time 39928
+Customer who entered at 39928 will join queue till 41996
+A customer has entered the shop at time 39932
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39964
+Overflow. A customer has been turned away
+A customer has entered the shop at time 39971
+A customer has entered the shop at time 39971
+A customer has been served at time 39971
+A customer has entered the shop at time 40202
+A customer has entered the shop at time 40202
+A customer has been served at time 40202
+A customer has entered the shop at time 40299
+Customer who entered at 40299 will join queue till 42163
+A customer has entered the shop at time 40302
+Customer who entered at 40302 will join queue till 42383
+A customer has entered the shop at time 40311
+A customer has entered the shop at time 40311
+A customer has been served at time 40311
+A customer has entered the shop at time 40373
+A customer has entered the shop at time 40373
+A customer has been served at time 40373
+A customer has entered the shop at time 40397
+Customer who entered at 40397 will join queue till 42485
+A customer has entered the shop at time 40481
+A customer has entered the shop at time 40481
+A customer has been served at time 40481
+A customer has entered the shop at time 40489
+Customer who entered at 40489 will join queue till 42705
+A customer has entered the shop at time 40540
+Customer who entered at 40540 will join queue till 42932
+A customer has entered the shop at time 40595
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40620
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40637
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40647
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40701
+A customer has entered the shop at time 40701
+A customer has been served at time 40701
+A customer has entered the shop at time 40722
+Customer who entered at 40722 will join queue till 43006
+A customer has entered the shop at time 40748
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40808
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40821
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40846
+A customer has entered the shop at time 40846
+A customer has been served at time 40846
+A customer has entered the shop at time 40870
+Customer who entered at 40870 will join queue till 43160
+A customer has entered the shop at time 40932
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40946
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40960
+Overflow. A customer has been turned away
+A customer has entered the shop at time 40962
+A customer has entered the shop at time 40962
+A customer has been served at time 40962
+A customer has entered the shop at time 41043
+A customer has entered the shop at time 41043
+A customer has been served at time 41043
+A customer has entered the shop at time 41128
+Customer who entered at 41128 will join queue till 43265
+A customer has entered the shop at time 41199
+Customer who entered at 41199 will join queue till 43391
+A customer has entered the shop at time 41216
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41226
+A customer has entered the shop at time 41226
+A customer has been served at time 41226
+A customer has entered the shop at time 41270
+Customer who entered at 41270 will join queue till 43597
+A customer has entered the shop at time 41286
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41287
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41293
+A customer has entered the shop at time 41293
+A customer has been served at time 41293
+A customer has entered the shop at time 41388
+Customer who entered at 41388 will join queue till 43671
+A customer has entered the shop at time 41411
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41458
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41460
+A customer has entered the shop at time 41460
+A customer has been served at time 41460
+A customer has entered the shop at time 41472
+Customer who entered at 41472 will join queue till 43753
+A customer has entered the shop at time 41482
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41531
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41544
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41569
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41573
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41583
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41605
+A customer has entered the shop at time 41605
+A customer has been served at time 41605
+A customer has entered the shop at time 41656
+Customer who entered at 41656 will join queue till 43927
+A customer has entered the shop at time 41665
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41727
+Overflow. A customer has been turned away
+A customer has entered the shop at time 41760
+A customer has entered the shop at time 41760
+A customer has been served at time 41760
+A customer has entered the shop at time 41894
+A customer has entered the shop at time 41894
+A customer has been served at time 41894
+A customer has entered the shop at time 41899
+Customer who entered at 41899 will join queue till 44166
+A customer has entered the shop at time 41952
+Customer who entered at 41952 will join queue till 44318
+A customer has entered the shop at time 41996
+A customer has entered the shop at time 41996
+A customer has been served at time 41996
+A customer has entered the shop at time 42084
+Customer who entered at 42084 will join queue till 44483
+A customer has entered the shop at time 42110
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42163
+A customer has entered the shop at time 42163
+A customer has been served at time 42163
+A customer has entered the shop at time 42190
+Customer who entered at 42190 will join queue till 44613
+A customer has entered the shop at time 42220
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42255
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42262
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42283
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42306
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42364
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42364
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42375
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42383
+A customer has entered the shop at time 42383
+A customer has been served at time 42383
+A customer has entered the shop at time 42485
+A customer has entered the shop at time 42485
+A customer has been served at time 42485
+A customer has entered the shop at time 42487
+Customer who entered at 42487 will join queue till 44765
+A customer has entered the shop at time 42499
+Customer who entered at 42499 will join queue till 44960
+A customer has entered the shop at time 42578
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42587
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42600
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42667
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42705
+A customer has entered the shop at time 42705
+A customer has been served at time 42705
+A customer has entered the shop at time 42742
+Customer who entered at 42742 will join queue till 45031
+A customer has entered the shop at time 42814
+Overflow. A customer has been turned away
+A customer has entered the shop at time 42932
+A customer has entered the shop at time 42932
+A customer has been served at time 42932
+A customer has entered the shop at time 42944
+Customer who entered at 42944 will join queue till 45182
+A customer has entered the shop at time 42990
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43006
+A customer has entered the shop at time 43006
+A customer has been served at time 43006
+A customer has entered the shop at time 43007
+Customer who entered at 43007 will join queue till 45245
+A customer has entered the shop at time 43030
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43040
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43104
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43125
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43147
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43160
+A customer has entered the shop at time 43160
+A customer has been served at time 43160
+A customer has entered the shop at time 43196
+Customer who entered at 43196 will join queue till 45404
+A customer has entered the shop at time 43196
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43202
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43265
+A customer has entered the shop at time 43265
+A customer has been served at time 43265
+A customer has entered the shop at time 43391
+A customer has entered the shop at time 43391
+A customer has been served at time 43391
+A customer has entered the shop at time 43428
+Customer who entered at 43428 will join queue till 45519
+A customer has entered the shop at time 43507
+Customer who entered at 43507 will join queue till 45658
+A customer has entered the shop at time 43523
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43528
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43597
+A customer has entered the shop at time 43597
+A customer has been served at time 43597
+A customer has entered the shop at time 43605
+Customer who entered at 43605 will join queue till 45736
+A customer has entered the shop at time 43671
+A customer has entered the shop at time 43671
+A customer has been served at time 43671
+A customer has entered the shop at time 43691
+Customer who entered at 43691 will join queue till 45800
+A customer has entered the shop at time 43694
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43698
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43708
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43753
+A customer has entered the shop at time 43753
+A customer has been served at time 43753
+A customer has entered the shop at time 43766
+Customer who entered at 43766 will join queue till 45929
+A customer has entered the shop at time 43800
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43825
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43830
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43883
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43894
+Overflow. A customer has been turned away
+A customer has entered the shop at time 43927
+A customer has entered the shop at time 43927
+A customer has been served at time 43927
+A customer has entered the shop at time 43989
+Customer who entered at 43989 will join queue till 46133
+A customer has entered the shop at time 44017
+Overflow. A customer has been turned away
+A customer has entered the shop at time 44028
+Overflow. A customer has been turned away
+A customer has entered the shop at time 44126
+Overflow. A customer has been turned away
+A customer has entered the shop at time 44166
+A customer has entered the shop at time 44166
+A customer has been served at time 44166
+A customer has entered the shop at time 44219
+Customer who entered at 44219 will join queue till 46244
+A customer has entered the shop at time 44283
+Overflow. A customer has been turned away
+A customer has entered the shop at time 44312
+Overflow. A customer has been turned away
+A customer has entered the shop at time 44318
+A customer has entered the shop at time 44318
+A customer has been served at time 44318
+A customer has entered the shop at time 44319
+Customer who entered at 44319 will join queue till 46441
+A customer has entered the shop at time 44426
+Overflow. A customer has been turned away
+A customer has entered the shop at time 44454
+Overflow. A customer has been turned away
+A customer has entered the shop at time 44483
+A customer has entered the shop at time 44483
+A customer has been served at time 44483
+A customer has entered the shop at time 44613
+A customer has entered the shop at time 44613
+A customer has been served at time 44613
+A customer has entered the shop at time 44684
+Customer who entered at 44684 will join queue till 46608
+A customer has entered the shop at time 44765
+A customer has entered the shop at time 44765
+A customer has been served at time 44765
+A customer has entered the shop at time 44783
+Customer who entered at 44783 will join queue till 46776
+A customer has entered the shop at time 44848
+Customer who entered at 44848 will join queue till 46851
+A customer has entered the shop at time 44854
+Overflow. A customer has been turned away
+A customer has entered the shop at time 44960
+A customer has entered the shop at time 44960
+A customer has been served at time 44960
+A customer has entered the shop at time 44987
+Customer who entered at 44987 will join queue till 47065
+A customer has entered the shop at time 45031
+A customer has entered the shop at time 45031
+A customer has been served at time 45031
+A customer has entered the shop at time 45094
+Customer who entered at 45094 will join queue till 47251
+A customer has entered the shop at time 45117
+Overflow. A customer has been turned away
+A customer has entered the shop at time 45158
+Overflow. A customer has been turned away
+A customer has entered the shop at time 45162
+Overflow. A customer has been turned away
+A customer has entered the shop at time 45182
+A customer has entered the shop at time 45182
+A customer has been served at time 45182
+A customer has entered the shop at time 45245
+A customer has entered the shop at time 45245
+A customer has been served at time 45245
+A customer has entered the shop at time 45303
+Customer who entered at 45303 will join queue till 47319
+A customer has entered the shop at time 45404
+A customer has entered the shop at time 45404
+A customer has been served at time 45404
+A customer has entered the shop at time 45410
+Customer who entered at 45410 will join queue till 47508
+A customer has entered the shop at time 45426
+Customer who entered at 45426 will join queue till 47628
+A customer has entered the shop at time 45519
+A customer has entered the shop at time 45519
+A customer has been served at time 45519
+A customer has entered the shop at time 45555
+Customer who entered at 45555 will join queue till 47807
+A customer has entered the shop at time 45615
+Overflow. A customer has been turned away
+A customer has entered the shop at time 45641
+Overflow. A customer has been turned away
+A customer has entered the shop at time 45658
+A customer has entered the shop at time 45658
+A customer has been served at time 45658
+A customer has entered the shop at time 45673
+Customer who entered at 45673 will join queue till 47982
+A customer has entered the shop at time 45678
+Overflow. A customer has been turned away
+A customer has entered the shop at time 45706
+Overflow. A customer has been turned away
+A customer has entered the shop at time 45736
+A customer has entered the shop at time 45736
+A customer has been served at time 45736
+A customer has entered the shop at time 45793
+Customer who entered at 45793 will join queue till 48176
+A customer has entered the shop at time 45800
+A customer has entered the shop at time 45800
+A customer has been served at time 45800
+A customer has entered the shop at time 45847
+Customer who entered at 45847 will join queue till 48396
+A customer has entered the shop at time 45862
+Overflow. A customer has been turned away
+A customer has entered the shop at time 45929
+A customer has entered the shop at time 45929
+A customer has been served at time 45929
+A customer has entered the shop at time 46021
+Customer who entered at 46021 will join queue till 48629
+A customer has entered the shop at time 46024
+Overflow. A customer has been turned away
+A customer has entered the shop at time 46066
+Overflow. A customer has been turned away
+A customer has entered the shop at time 46133
+A customer has entered the shop at time 46133
+A customer has been served at time 46133
+A customer has entered the shop at time 46175
+Customer who entered at 46175 will join queue till 48789
+A customer has entered the shop at time 46221
+Overflow. A customer has been turned away
+A customer has entered the shop at time 46244
+A customer has entered the shop at time 46244
+A customer has been served at time 46244
+A customer has entered the shop at time 46441
+A customer has entered the shop at time 46441
+A customer has been served at time 46441
+A customer has entered the shop at time 46527
+Customer who entered at 46527 will join queue till 49006
+A customer has entered the shop at time 46567
+Customer who entered at 46567 will join queue till 49240
+A customer has entered the shop at time 46587
+Overflow. A customer has been turned away
+A customer has entered the shop at time 46608
+A customer has entered the shop at time 46608
+A customer has been served at time 46608
+A customer has entered the shop at time 46634
+Customer who entered at 46634 will join queue till 49388
+A customer has entered the shop at time 46721
+Overflow. A customer has been turned away
+A customer has entered the shop at time 46771
+Overflow. A customer has been turned away
+A customer has entered the shop at time 46776
+A customer has entered the shop at time 46776
+A customer has been served at time 46776
+A customer has entered the shop at time 46839
+Customer who entered at 46839 will join queue till 49527
+A customer has entered the shop at time 46851
+A customer has entered the shop at time 46851
+A customer has been served at time 46851
+A customer has entered the shop at time 47065
+A customer has entered the shop at time 47065
+A customer has been served at time 47065
+A customer has entered the shop at time 47139
+Customer who entered at 47139 will join queue till 49712
+A customer has entered the shop at time 47141
+Customer who entered at 47141 will join queue till 49933
+A customer has entered the shop at time 47212
+Overflow. A customer has been turned away
+A customer has entered the shop at time 47251
+A customer has entered the shop at time 47251
+A customer has been served at time 47251
+A customer has entered the shop at time 47319
+A customer has entered the shop at time 47319
+A customer has been served at time 47319
+A customer has entered the shop at time 47446
+Customer who entered at 47446 will join queue till 50025
+A customer has entered the shop at time 47475
+Customer who entered at 47475 will join queue till 50240
+A customer has entered the shop at time 47508
+A customer has entered the shop at time 47508
+A customer has been served at time 47508
+A customer has entered the shop at time 47528
+Customer who entered at 47528 will join queue till 50444
+A customer has entered the shop at time 47628
+A customer has entered the shop at time 47628
+A customer has been served at time 47628
+A customer has entered the shop at time 47653
+Customer who entered at 47653 will join queue till 50572
+A customer has entered the shop at time 47807
+A customer has entered the shop at time 47807
+A customer has been served at time 47807
+A customer has entered the shop at time 47950
+Customer who entered at 47950 will join queue till 50785
+A customer has entered the shop at time 47982
+A customer has entered the shop at time 47982
+A customer has been served at time 47982
+A customer has entered the shop at time 48135
+Customer who entered at 48135 will join queue till 50896
+A customer has entered the shop at time 48176
+A customer has entered the shop at time 48176
+A customer has been served at time 48176
+A customer has entered the shop at time 48389
+Customer who entered at 48389 will join queue till 50993
+A customer has entered the shop at time 48396
+A customer has entered the shop at time 48396
+A customer has been served at time 48396
+A customer has entered the shop at time 48401
+Customer who entered at 48401 will join queue till 51075
+A customer has entered the shop at time 48412
+Overflow. A customer has been turned away
+A customer has entered the shop at time 48483
+Overflow. A customer has been turned away
+A customer has entered the shop at time 48575
+Overflow. A customer has been turned away
+A customer has entered the shop at time 48590
+Overflow. A customer has been turned away
+A customer has entered the shop at time 48629
+A customer has entered the shop at time 48629
+A customer has been served at time 48629
+A customer has entered the shop at time 48789
+A customer has entered the shop at time 48789
+A customer has been served at time 48789
+A customer has entered the shop at time 49006
+A customer has entered the shop at time 49006
+A customer has been served at time 49006
+A customer has entered the shop at time 49240
+A customer has entered the shop at time 49240
+A customer has been served at time 49240
+A customer has entered the shop at time 49388
+A customer has entered the shop at time 49388
+A customer has been served at time 49388
+A customer has entered the shop at time 49527
+A customer has entered the shop at time 49527
+A customer has been served at time 49527
+A customer has entered the shop at time 49550
+Customer who entered at 49550 will join queue till 51187
+A customer has entered the shop at time 49617
+Customer who entered at 49617 will join queue till 51385
+A customer has entered the shop at time 49712
+A customer has entered the shop at time 49712
+A customer has been served at time 49712
+A customer has entered the shop at time 49752
+Customer who entered at 49752 will join queue till 51570
+A customer has entered the shop at time 49827
+Customer who entered at 49827 will join queue till 51658
+A customer has entered the shop at time 49933
+A customer has entered the shop at time 49933
+A customer has been served at time 49933
+A customer has entered the shop at time 49968
+Customer who entered at 49968 will join queue till 51730
+A customer has entered the shop at time 50025
+A customer has entered the shop at time 50025
+A customer has been served at time 50025
+A customer has entered the shop at time 50127
+Customer who entered at 50127 will join queue till 51919
+A customer has entered the shop at time 50240
+A customer has entered the shop at time 50240
+A customer has been served at time 50240
+A customer has entered the shop at time 50272
+Customer who entered at 50272 will join queue till 52114
+A customer has entered the shop at time 50444
+A customer has entered the shop at time 50444
+A customer has been served at time 50444
+A customer has entered the shop at time 50459
+Customer who entered at 50459 will join queue till 52306
+A customer has entered the shop at time 50487
+Customer who entered at 50487 will join queue till 52437
+A customer has entered the shop at time 50503
+Customer who entered at 50503 will join queue till 52534
+A customer has entered the shop at time 50572
+A customer has entered the shop at time 50572
+A customer has been served at time 50572
+A customer has entered the shop at time 50595
+Customer who entered at 50595 will join queue till 52687
+A customer has entered the shop at time 50785
+A customer has entered the shop at time 50785
+A customer has been served at time 50785
+A customer has entered the shop at time 50802
+Customer who entered at 50802 will join queue till 52814
+A customer has entered the shop at time 50835
+Customer who entered at 50835 will join queue till 52960
+A customer has entered the shop at time 50859
+Overflow. A customer has been turned away
+A customer has entered the shop at time 50896
+A customer has entered the shop at time 50896
+A customer has been served at time 50896
+A customer has entered the shop at time 50993
+A customer has entered the shop at time 50993
+A customer has been served at time 50993
+A customer has entered the shop at time 51075
+A customer has entered the shop at time 51075
+A customer has been served at time 51075
+A customer has entered the shop at time 51143
+Customer who entered at 51143 will join queue till 53134
+A customer has entered the shop at time 51187
+A customer has entered the shop at time 51187
+A customer has been served at time 51187
+A customer has entered the shop at time 51216
+Customer who entered at 51216 will join queue till 53262
+A customer has entered the shop at time 51385
+A customer has entered the shop at time 51385
+A customer has been served at time 51385
+A customer has entered the shop at time 51414
+Customer who entered at 51414 will join queue till 53379
+A customer has entered the shop at time 51482
+Customer who entered at 51482 will join queue till 53561
+A customer has entered the shop at time 51541
+Customer who entered at 51541 will join queue till 53639
+A customer has entered the shop at time 51570
+A customer has entered the shop at time 51570
+A customer has been served at time 51570
+A customer has entered the shop at time 51658
+A customer has entered the shop at time 51658
+A customer has been served at time 51658
+A customer has entered the shop at time 51730
+A customer has entered the shop at time 51730
+A customer has been served at time 51730
+A customer has entered the shop at time 51822
+Customer who entered at 51822 will join queue till 53828
+A customer has entered the shop at time 51852
+Customer who entered at 51852 will join queue till 53914
+A customer has entered the shop at time 51919
+A customer has entered the shop at time 51919
+A customer has been served at time 51919
+A customer has entered the shop at time 52114
+A customer has entered the shop at time 52114
+A customer has been served at time 52114
+A customer has entered the shop at time 52126
+Customer who entered at 52126 will join queue till 54107
+A customer has entered the shop at time 52306
+A customer has entered the shop at time 52306
+A customer has been served at time 52306
+A customer has entered the shop at time 52437
+A customer has entered the shop at time 52437
+A customer has been served at time 52437
+A customer has entered the shop at time 52534
+A customer has entered the shop at time 52534
+A customer has been served at time 52534
+A customer has entered the shop at time 52573
+Customer who entered at 52573 will join queue till 54217
+A customer has entered the shop at time 52577
+Customer who entered at 52577 will join queue till 54391
+A customer has entered the shop at time 52687
+A customer has entered the shop at time 52687
+A customer has been served at time 52687
+A customer has entered the shop at time 52748
+Customer who entered at 52748 will join queue till 54497
+A customer has entered the shop at time 52814
+A customer has entered the shop at time 52814
+A customer has been served at time 52814
+A customer has entered the shop at time 52960
+A customer has entered the shop at time 52960
+A customer has been served at time 52960
+A customer has entered the shop at time 53016
+Customer who entered at 53016 will join queue till 54644
+A customer has entered the shop at time 53067
+Customer who entered at 53067 will join queue till 54730
+A customer has entered the shop at time 53130
+Customer who entered at 53130 will join queue till 54890
+A customer has entered the shop at time 53134
+A customer has entered the shop at time 53134
+A customer has been served at time 53134
+A customer has entered the shop at time 53262
+A customer has entered the shop at time 53262
+A customer has been served at time 53262
+A customer has entered the shop at time 53293
+Customer who entered at 53293 will join queue till 55070
+A customer has entered the shop at time 53326
+Customer who entered at 53326 will join queue till 55279
+A customer has entered the shop at time 53366
+Customer who entered at 53366 will join queue till 55440
+A customer has entered the shop at time 53379
+A customer has entered the shop at time 53379
+A customer has been served at time 53379
+A customer has entered the shop at time 53561
+A customer has entered the shop at time 53561
+A customer has been served at time 53561
+A customer has entered the shop at time 53633
+Customer who entered at 53633 will join queue till 55616
+A customer has entered the shop at time 53639
+A customer has entered the shop at time 53639
+A customer has been served at time 53639
+A customer has entered the shop at time 53651
+Customer who entered at 53651 will join queue till 55694
+A customer has entered the shop at time 53736
+Customer who entered at 53736 will join queue till 55796
+A customer has entered the shop at time 53828
+A customer has entered the shop at time 53828
+A customer has been served at time 53828
+A customer has entered the shop at time 53878
+Customer who entered at 53878 will join queue till 55887
+A customer has entered the shop at time 53914
+A customer has entered the shop at time 53914
+A customer has been served at time 53914
+A customer has entered the shop at time 53932
+Customer who entered at 53932 will join queue till 55966
+A customer has entered the shop at time 54107
+A customer has entered the shop at time 54107
+A customer has been served at time 54107
+A customer has entered the shop at time 54217
+A customer has entered the shop at time 54217
+A customer has been served at time 54217
+A customer has entered the shop at time 54391
+A customer has entered the shop at time 54391
+A customer has been served at time 54391
+A customer has entered the shop at time 54497
+A customer has entered the shop at time 54497
+A customer has been served at time 54497
+A customer has entered the shop at time 54644
+A customer has entered the shop at time 54644
+A customer has been served at time 54644
+A customer has entered the shop at time 54730
+A customer has entered the shop at time 54730
+A customer has been served at time 54730
+A customer has entered the shop at time 54890
+A customer has entered the shop at time 54890
+A customer has been served at time 54890
+A customer has entered the shop at time 55070
+A customer has entered the shop at time 55070
+A customer has been served at time 55070
+A customer has entered the shop at time 55279
+A customer has entered the shop at time 55279
+A customer has been served at time 55279
+A customer has entered the shop at time 55440
+A customer has entered the shop at time 55440
+A customer has been served at time 55440
+A customer has entered the shop at time 55616
+A customer has entered the shop at time 55616
+A customer has been served at time 55616
+A customer has entered the shop at time 55694
+A customer has entered the shop at time 55694
+A customer has been served at time 55694
+A customer has entered the shop at time 55796
+A customer has entered the shop at time 55796
+A customer has been served at time 55796
+A customer has entered the shop at time 55887
+A customer has entered the shop at time 55887
+A customer has been served at time 55887
+A customer has entered the shop at time 55966
+A customer has entered the shop at time 55966
+A customer has been served at time 55966

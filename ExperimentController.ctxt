@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=ExperimentController
+comment0.text=\n\ Holds\ methods\ to\ run\ the\ shop\ simulation\ 100\ times\ for\ a\ different\ number\ of\ cashiers\n\ Returns\ the\ average\ for\ each\ metric\ measured\n\n\ @author\ Yazdan\ Basir\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=
+comment10.target=void\ averageDataFor9Cashiers()
+comment11.params=
+comment11.target=void\ averageDataFor10Cashiers()
+comment2.params=
+comment2.target=void\ averageDataFor1Cashier()
+comment3.params=
+comment3.target=void\ averageDataFor2Cashiers()
+comment4.params=
+comment4.target=void\ averageDataFor3Cashiers()
+comment5.params=
+comment5.target=void\ averageDataFor4Cashiers()
+comment6.params=
+comment6.target=void\ averageDataFor5Cashiers()
+comment7.params=
+comment7.target=void\ averageDataFor6Cashiers()
+comment8.params=
+comment8.target=void\ averageDataFor7Cashiers()
+comment9.params=
+comment9.target=void\ averageDataFor8Cashiers()
+numComments=12

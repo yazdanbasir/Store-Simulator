@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ArrivalEvent
+comment0.text=\n\ Creates\ an\ instace\ of\ an\ Event\ where\ a\ customer\ enters\ the\ shop\n\n\ @author\ Yazdan\ Basir\n
+comment1.params=a
+comment1.target=ArrivalEvent(int)
+numComments=2

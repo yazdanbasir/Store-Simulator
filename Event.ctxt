@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Event
+comment0.text=\n\ Abstract\ class\ Event\n\ Provides\ the\ foundation\ for\ the\ different\ type\ of\ Events\ -\ Serve,\ Waiting,\ Arrival,\ Overflow\n\ \n\ @author\ Yazdan\ Basir\n
+comment1.params=a\ b
+comment1.target=Event(int,\ int)
+comment1.text=\n\ Constuctor\ for\ the\ Event\ abstract\ class\n\ \n\ @param\ a\ int\n\ @param\ b\ int\n
+comment2.params=e
+comment2.target=int\ compareTo(Event)
+comment2.text=\n\ CompareTo\ methods\ that\ orders\ Events\ based\ on\ their\ arrivalTime\n\ If\ two\ Events\ have\ the\ same\ arrivalTime,\ they\ are\ ordered\ in\ the\ following\ manner\:\n\ Departure\ Events\ (0)\n\ Waiting\ Events\ (1)\n\ Arrival\ Events\ (2)\n\ Overflow\ Events\ (3)\n\ \n\ @param\ e\ Event\n
+numComments=3
